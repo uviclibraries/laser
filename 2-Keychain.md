@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1) and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. 
+1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/) and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. 
 
 2. Get familiar with how to move around
  - Open Inkscape
