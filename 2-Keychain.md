@@ -20,7 +20,6 @@ If you and your group have any questions or get stuck as you work through this i
 3. Create the outline of the keychain
  - Click on the Create rectangles and squares () icon
  - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this:
-
  - Make sure the units are in mm.
  - Change the width (W) and height (H) to 35. 
  - Change the x-radius (Rx) and y-radius (Ry) to 5.
@@ -41,7 +40,6 @@ If you and your group have any questions or get stuck as you work through this i
  - Click on the Create and edit text () icon.
  - Click somewhere on the canvas and write whatever you want to engrave on the keychain. 
  - Select the text and modify it how you please by using the text editing options at the top of the screen.
- 
  - Select the text and modify it how you please by using the text editing options at the top of the screen.
  - In the Fill and Stroke tool, ensure there is no stroke and the fill is black.
  - Use the Select and transform () tool to move the text inside the rectangle. You can also rotate and scale the text how you please. 

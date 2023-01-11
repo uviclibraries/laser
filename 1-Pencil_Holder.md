@@ -25,7 +25,8 @@ If you and your group have any questions or get stuck as you work through this i
  - Click on Download Box Plans. A window will pop up with the box laid out in 2D.
  - Click over to the Line Formatting tab. Change the Line Width to 0.005 in and the Line Color to #FF0000. These settings will change the vector lines to be a little thinner than the default and be red. Red is specified at the cut operation in the laser software.
  - Click on the Kerf tab. Technically, the kerf should be 0.004 in, but it’s easier to assemble the box if not all the kerf is accounted for, so enter 0.0035 in. 
-   -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  We need to consider this when designing our box._
+    -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  We need to consider this when designing our box._
+
  - Click on Download SVG. This exports the plans as a .svg file which can then be viewed and edited in a browser or in a vector editing software such as Inkscape or Adobe Illustrator.
 
 
