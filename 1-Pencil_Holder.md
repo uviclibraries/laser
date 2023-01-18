@@ -15,7 +15,7 @@ If you and your group have any questions or get stuck as you work through this i
 2. Select **Basic Box**.
 
 3. Adjust the dimensions of the box.
-<img src="images/act1/laser-act1-02.png" style="margin-left:20px; float:right;width:400px;" alt="box settings">
+ <img src="images/act1/laser-act1-02.png" style="margin-left:20px; float:right;width:400px;" alt="box settings">
  - On the left side of the screen, change the Box Width to 2.5 inches.
  - Change the Box Depth to **2.5 inches**.
  - Change the Box Height to **3.5 inches**.
@@ -26,8 +26,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Move the Finger Size slider all the way to the right. Larger tabs are easier to assemble than small tabs.
 
 4. Export the files
-   <img src="images/act1/laser-act1-04.png" style="margin-left:20px; float:right;width:200px;" alt="download box plans">
- - Click on **Download Box Plans**. A window will pop up with the box laid out in 2D.
+ - Click on **Download Box Plans**. A window will pop up with the box laid out in 2D. <img src="images/act1/laser-act1-04.png" style="margin-left:20px; float:right;width:200px;" alt="download box plans">
  - Click over to the Line Formatting tab. Change the Line Width to **0.005 in** and the Line Color to **#FF0000**. These settings will change the vector lines to be a little thinner than the default and be red. Red is specified at the cut operation in the laser software.
    <img src="images/act1/laser-act1-05.png" style="margin-left:20px; float:right;width:400px;" alt="line formatting">
    
