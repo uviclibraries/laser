@@ -16,7 +16,7 @@ This workshop is primarily hands-on practice with **Inkscape and Photopea** in o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2thSkOa_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHgqBYTj67U&ab_channel=WayofWood){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SIjUVCho_xU&ab_channel=TrotecLaser" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Download and Install Software**<br>
 - Download and Install [Inkscape here](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1){:target="_blank"}
