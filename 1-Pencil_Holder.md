@@ -4,23 +4,25 @@ title: 1 - Design a Pencil Holder using MakerCase
 nav_order: 2
 parent: Workshop Activities
 ---
-# Design a Pencil Holder Using MakerCase
 <img src="images/act1/laser-act1-01.png" style="margin-left:20px; float:right;width:200px;" alt="basic box">
+
+# Design a Pencil Holder Using MakerCase
+
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
    
 1. Go to [makercase.com](https://www.makercase.com/). This is a website that produces custom box layouts for laser cutting.
 
 2. Select **Basic Box**.
-<img src="images/act1/laser-act1-02.png" style="margin-left:20px; float:right;width:200px;" alt="box settings">
 
 3. Adjust the dimensions of the box.
+<img src="images/act1/laser-act1-02.png" style="margin-left:20px; float:right;width:400px;" alt="box settings">
  - On the left side of the screen, change the Box Width to 2.5 inches.
  - Change the Box Depth to **2.5 inches**.
  - Change the Box Height to **3.5 inches**.
  - Leave these as Outside dimensions
  - Leave the material thickness as **⅛”**.
- - Select an Open Box.
- - Select the Finger joint type. This type of joint is perfect for laser cutting because it allows the pieces to be assembled without glue.
+ - Select an **Open** Box.
+ - Select the **Finger** joint type. This type of joint is perfect for laser cutting because it allows the pieces to be assembled without glue.
  - Move the Finger Size slider all the way to the right. Larger tabs are easier to assemble than small tabs.
 
 <img src="images/act1/laser-act1-04.png" style="margin-left:20px; float:right;width:200px;" alt="download box plans">
