@@ -40,7 +40,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Click somewhere on the canvas to unselect the objects. Move the circle to the top left corner of the rectangle. The circle will be the hole for the keychain, so ensure it’s not too close to the edge, or else the small amount of material will be fragile. 
 
 4. Add some text 
-<img src="images/act2/act2-12.png" style="width:200px; float:right;" alt="objects">
+   <img src="images/act2/act2-12.png" style="width:200px; float:right;" alt="objects">
  - Click on the Create and edit text () icon. <img src="images/act2/act2-10.png" style="width:20px;" alt="objects">
  - Click somewhere on the canvas and write whatever you want to engrave on the keychain. 
  - Select the text and modify it how you please by using the text editing options at the top of the screen.
@@ -56,9 +56,9 @@ If you and your group have any questions or get stuck as you work through this i
  - Decide which shapes you want engraved, and which to be cut out. Follow the same Fill and Stroke steps as the rectangle if they are cut. Follow the same Fill and Stroke steps as the text if they are engraved.
 
 6. Save your file
- - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
+ - Click **File**, then **Save As…** to save your file. Inkscape’s native file format is **.svg** which is suitable for laser cutting. 
 
-
+# Congratulations - You've designed a keychain for laser cutting!
 
 
 [NEXT STEP: Prepare an Image for Engraving](3-Engraving.html){: .btn .btn-blue }

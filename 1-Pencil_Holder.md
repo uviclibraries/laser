@@ -25,14 +25,13 @@ If you and your group have any questions or get stuck as you work through this i
  - Select the **Finger** joint type. This type of joint is perfect for laser cutting because it allows the pieces to be assembled without glue.
  - Move the Finger Size slider all the way to the right. Larger tabs are easier to assemble than small tabs.
 
-<img src="images/act1/laser-act1-04.png" style="margin-left:20px; float:right;width:200px;" alt="download box plans">
-
 4. Export the files
+   <img src="images/act1/laser-act1-04.png" style="margin-left:20px; float:right;width:200px;" alt="download box plans">
  - Click on **Download Box Plans**. A window will pop up with the box laid out in 2D.
  - Click over to the Line Formatting tab. Change the Line Width to **0.005 in** and the Line Color to **#FF0000**. These settings will change the vector lines to be a little thinner than the default and be red. Red is specified at the cut operation in the laser software.
-   <img src="images/act1/laser-act1-05.png" style="margin-left:20px; float:right;width:300px;" alt="line formatting">
+   <img src="images/act1/laser-act1-05.png" style="margin-left:20px; float:right;width:400px;" alt="line formatting">
    
- - Click on the Kerf tab. Technically, the kerf should be 0.004 in, but it’s easier to assemble the box if not all the kerf is accounted for, so enter 0.0035 in. <img src="images/act1/laser-act1-06.png" style="margin-left:20px; float:right;width:200px;" alt="laser symbol">
+ - Click on the Kerf tab. Technically, the kerf should be 0.004 in, but it’s easier to assemble the box if not all the kerf is accounted for, so enter 0.0035 in. <img src="images/act1/laser-act1-06.png" style="margin-left:20px; float:right;width:400px;" alt="laser symbol">
       -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  We need to consider this when designing our box._  
  - Click on **Download SVG**. This exports the plans as a .svg file which can then be viewed and edited in a browser or in a vector editing software such as Inkscape or Adobe Illustrator.
 
