@@ -4,7 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **Inkscape and Photopea** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with **Inkscape or Photopea** in order to learn to use key features of the software for laser cutting. To participate fully please do the following **before the workshop**:
 
 **Watch pre-class Videos**<br>
 - [Laser Cutting Basics](https://www.instructables.com/id/Laser-Cutting-Basics/){:target="_blank"} (10 min)

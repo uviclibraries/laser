@@ -44,10 +44,9 @@ Currently, we’re using the Brightness cutoff mode. Changing the Threshold valu
    <img src="images/act3/act3-bitmap2.PNG" style="width:300px; float:right;" alt="original vs vector"> 
  - The new vector graphic has been placed directly on top of the old one. Move the new graphic to a free space on the canvas.
  - Try zooming in to look at both images closely. The newly created image is a vector graphic so the lines always stay crisp while zooming in.
- 
+
     <img src="images/act3/act3-eye1.PNG" style="width:200px; height:200px;" alt="png eye"> 
     <img src="images/act3/act3-eye2.PNG" style="width:200px; height:200px;" alt="vector eye"> 
-
  - The Trace Bitmap function creates an object without a stroke whose fill is black. This is ideal for laser engraving and requires no further modifications. Delete the original picture. 
 
 5. Save
