@@ -23,6 +23,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this:
 
     <img src="images/act2/act2-03.png" style="width:400px;" alt="menu">
+
  - Make sure the units are in mm.
  - Change the width (W) and height (H) to 35. 
  - Change the x-radius (Rx) and y-radius (Ry) to 5.
@@ -40,7 +41,8 @@ If you and your group have any questions or get stuck as you work through this i
  - Click somewhere on the canvas to unselect the objects. Move the circle to the top left corner of the rectangle. The circle will be the hole for the keychain, so ensure it’s not too close to the edge, or else the small amount of material will be fragile. 
 
 4. Add some text 
-   <img src="images/act2/act2-12.png" style="width:200px; float:right;" alt="objects">
+ <img src="images/act2/act2-12.png" style="width:200px; float:right;" alt="objects">
+
  - Click on the Create and edit text () icon. <img src="images/act2/act2-10.png" style="width:20px;" alt="objects">
  - Click somewhere on the canvas and write whatever you want to engrave on the keychain. 
  - Select the text and modify it how you please by using the text editing options at the top of the screen.
@@ -51,7 +53,9 @@ If you and your group have any questions or get stuck as you work through this i
  - Use the Select and transform () tool to move the text inside the rectangle. You can also rotate and scale the text how you please. 
 
 5. Add other shapes. 
+
  <img src="images/act2/act2-14.png" style="width:200px; float:right;" alt="objects">
+
  - If you want, you can add more shapes using rectangle, circle, or polygon tools on the left side of the screen. <img src="images/act2/act2-13.png" style="width:20px;" alt="objects">
  - Decide which shapes you want engraved, and which to be cut out. Follow the same Fill and Stroke steps as the rectangle if they are cut. Follow the same Fill and Stroke steps as the text if they are engraved.
 
