@@ -5,11 +5,13 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-# Bonus Activity: Removing a Background from Images
+# Bonus Activity: Removing a Background from Images - UNDER CONSTRUCTION
 
-<img src="images/act4/photopea.png" style="float:right; width:200px;" alt="demo image">
+<img src="images/act4/photopea.png" style="float:right; width:200px;" alt="photopea logo">
 
 If you have a graphic or photo and need to get rid of the background and convert it to a transparent background, you may find this guide helpful. If you have any questions, please ask!
+
+<img src="images/Under-Construction-Sign.png" style="width:500px;" alt="demo image">
 
 ## Method #1: Background Eraser “Once Mode”
 
