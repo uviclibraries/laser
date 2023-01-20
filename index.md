@@ -21,7 +21,7 @@ Laser cutting is a fast and accurate way to engrave objects, make boxes, and mor
 
 [Inkscape](https://inkscape.org/){:target="_blank"} is a free and open source design tool for making and editing vector graphics.  Inkscape uses the standardized svg file format as its main format, which is supported by many other applications including web browsers.
 
-Another design tool is [Photopea](https://www.photopea.com/), a free online image editor.  You can export designs in .svg, .jpg, or .png file formats.
+Another design tool is [Photopea](https://www.photopea.com/){:target="_blank"}, a free online image editor.  You can export designs in .svg, .jpg, or .png file formats.
 
 This workshop is not an endorsement of Inkscape or Photopea; there are many options for 2D design and other software may be better for different contexts or preferences.
 
