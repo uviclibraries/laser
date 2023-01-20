@@ -27,21 +27,24 @@ If you have a graphic or photo and need to get rid of the background and convert
     - Click the Checkmark at the top of the screen when you want to complete the crop.
     - See the Exporting instructions at the end of this activity to save it.
 
- <img src="images/act4/corina-unsplash.jpg" style="float:right; width:200px;" alt="demo image2">
+ 
 
 ## Method #2: Quick Selection Tool
+
+<img src="images/act4/corina-unsplash.jpg" style="float:right; width:200px;" alt="demo image2">
+
 1. Download this image for the exercise: [https://unsplash.com/photos/xEX_o0haX6c](https://unsplash.com/photos/xEX_o0haX6c)
-2. Open the photo in Photopea by either clicking on the Open From Computer or going to File -> Open. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
-3. Find the Quick Selection Tool in the left toolbar menu.
-4. In the properties menu across the top, click on Refine Edge.
-5. Click on the white square in the top menu and choose a brush size with the little downward pointing arrow. 
+2. Open the photo in Photopea by either clicking on the Open From Computer or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
+3. Find the **Quick Selection** Tool in the left toolbar menu.
+4. In the properties menu across the top, click on **Refine Edge**.
+5. Click on the **white square** in the top menu and choose a brush size with the little downward pointing arrow. 
     - Brush across all the parts of the image you want to keep. Those areas will lighten and then appear in the preview on the right. 
-6. To zoom in to get a closer look, use the scroll wheel on your mouse or click on the Plus button in the top menu and click on the image to zoom.
+6. To zoom in to get a closer look, use the scroll wheel on your mouse or click on the **Plus** button in the top menu and click on the image to zoom.
     - You may want to change the size of your brush to get small details. 
     - If the checkered transparent background makes it difficult to see detail, you can choose a different display background in the top right corner menu. A black background would be helpful for this image as all the excess light background becomes easily visible.
-7. To tidy up the edges, click on the black square in the top left corner and brush over the areas you want erased from your final image.
-8. Click on OK in the top right corner when you are satisfied with your image and this will bring you back into the main Photopea screen.
-9. Trim away excess space by clicking on the Crop Tool in the left side toolbar. 
+7. To tidy up the edges, click on the **black square** in the top left corner and brush over the areas you want erased from your final image.
+8. Click on **OK** in the top right corner when you are satisfied with your image and this will bring you back into the main Photopea screen.
+9. Trim away excess space by clicking on the **Crop** Tool in the left side toolbar. 
     - Click and drag the square handles around the perimeter of the image to show only the area that you want kept. 
     - Click the Checkmark at the top of the screen when you want to complete the crop.
 ## Export as a PNG:
