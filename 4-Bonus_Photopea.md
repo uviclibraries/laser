@@ -11,20 +11,18 @@ parent: Workshop Activities
 
 If you have a graphic or photo and need to get rid of the background and convert it to a transparent background, you may find this guide helpful. If you have any questions, please ask!
 
-
-
-
-   <img src="images/act4/alarm.png" style="float:right; width:200px;" alt="demo image">
 ## Method #1: Background Eraser “Once Mode”
 
+<img src="images/act4/alarm.png" style="float:right; width:200px;" alt="demo image">
+
 1. Download this image for the exercise: [https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/)
-2. Open the photo in Photopea by either clicking on the Open From Computer or going to File -> Open. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
+2. Open the photo in Photopea by either clicking on the Open From Computer or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
 3. Find the Background Eraser Tool: In the left toolbar menu, click and hold on the Eraser Tool icon and a menu containing two eraser tools will pop up. Select Background Eraser Tool. 
-4. In the properties menu across the top, change the Eraser Size to 200 by clicking on the downward arrow next to the white dot. set the Mode to Once and the Tolerance to 30.
+4. In the properties menu across the top, change the **Eraser Size to 200** by clicking on the downward arrow next to the white dot. set the **Mode to Once** and the **Tolerance to 30**.
 5. Click once on the background and keep the mouse button pressed while you move it to start erasing the background, replaced with a grey and white checked background (indicating a transparent area). 
     - Click and erase across all the areas of the background in different colour ranges until the only parts of the graphic left are what you want to keep. 
     - Note: by having the Mode set to Once, when you click on a section of the background, the eraser samples that colour and then keeping the mouse button pressed, the eraser will only erase that colour, even if you brush across the clock. As the colour is a gradient, you will need to re-click and drag to resample and erase other sections of the background. If you need to get into smaller areas to sample the correct colour, you can resize the brush. 
-6. Trim away excess space by clicking on the Crop Tool in the left side toolbar. 
+6. Trim away excess space by clicking on the **Crop** Tool in the left side toolbar. 
     - Click and drag the square handles around the perimeter of the image to show only the area that you want kept. 
     - Click the Checkmark at the top of the screen when you want to complete the crop.
     - See the Exporting instructions at the end of this activity to save it.
