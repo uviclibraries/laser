@@ -6,7 +6,9 @@ parent: Workshop Activities
 ---
 <img src="images/act1/laser-act1-01.png" style="margin-left:20px; float:right;width:200px;" alt="basic box">
 
-# Design a Pencil Holder Using MakerCase
+# Design a Pencil Holder Using MakerCase - UNDER CONSTRUCTION 
+
+<img src="images/Under-Construction-Sign.png" style="margin-left:20px;width:300px;" alt="under construction sign">
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
    
