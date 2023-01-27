@@ -17,7 +17,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 
 <img src="images/act4/alarm.png" style="float:right; width:200px;" alt="demo image">
 
-1. Download this image for the exercise: [https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/)
+1. Download this image for the exercise: [https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/](https://pixabay.com/vectors/alarm-time-flat-wake-up-sleep-3122687/){:target="_blank"}
 2. Open the photo in Photopea by either clicking on the Open From Computer or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
 3. Find the Background Eraser Tool: In the left toolbar menu, click and hold on the Eraser Tool icon and a menu containing two eraser tools will pop up. Select Background Eraser Tool. 
 4. In the properties menu across the top, change the **Eraser Size to 200** by clicking on the downward arrow next to the white dot. set the **Mode to Once** and the **Tolerance to 30**.
@@ -35,7 +35,7 @@ If you have a graphic or photo and need to get rid of the background and convert
 
 <img src="images/act4/corina-unsplash.jpg" style="float:right; width:200px;" alt="demo image2">
 
-1. Download this image for the exercise: [https://unsplash.com/photos/xEX_o0haX6c](https://unsplash.com/photos/xEX_o0haX6c)
+1. Download this image for the exercise: [https://unsplash.com/photos/xEX_o0haX6c](https://unsplash.com/photos/xEX_o0haX6c){:target="_blank"}
 2. Open the photo in Photopea by either clicking on the Open From Computer or going to **File -> Open**. Find where you saved the photo and open it. If your browser automatically saved it for you, it is probably in your Downloads folder. 
 3. Find the **Quick Selection** Tool in the left toolbar menu.
 4. In the properties menu across the top, click on **Refine Edge**.

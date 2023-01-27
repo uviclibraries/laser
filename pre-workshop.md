@@ -6,6 +6,9 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with **Inkscape or Photopea** in order to learn to use key features of the software for laser cutting. To participate fully please do the following **before the workshop**:
 
+**Download and Install Software**<br>
+- Download and Install [Inkscape here](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1){:target="_blank"}
+
 **Watch pre-class Videos**<br>
 - [Laser Cutting Basics](https://www.instructables.com/id/Laser-Cutting-Basics/){:target="_blank"} (10 min)
 
@@ -17,8 +20,5 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 
 - OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHgqBYTj67U&ab_channel=WayofWood){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Download and Install Software**<br>
-- Download and Install [Inkscape here](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1){:target="_blank"}
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }

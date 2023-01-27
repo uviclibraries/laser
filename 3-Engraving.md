@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Engraving in Inkscape
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/) and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. 
+1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"}  and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. 
 
 2. Get familiar with how to move around
  - Open Inkscape
@@ -19,10 +19,10 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. Find an image you would like to engrave <img src="images/act3/lasercat.png" style="width:200px; float:right;" alt="objects">
  - You can use the cartoon cat image example, or choose your own line art photo from one of the websites below:
-A cute cartoon cat can be found [from pixabay](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/).  
-    - [Vectorstock: full colour clip art](https://www.vectorstock.com/)
-    - [The noun project: free icon clip art](https://thenounproject.com/)
-    - [Biorender: biology clip art](https://biorender.com/)
+A cute cartoon cat can be found [from pixabay](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/){:target="_blank"} .  
+    - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
+    - [The noun project: free icon clip art](https://thenounproject.com/){:target="_blank"} 
+    - [Biorender: biology clip art](https://biorender.com/){:target="_blank"} 
  - Click on **Free Download** and then choose one of the PNG formats.
  - If you would like to find your own image to engrave, keep in mind that it needs to be high-contrast and free of copyright. For the sake of this exercise choose a **PNG or JPEG** format even though there are plenty of free vector graphic (svg) images out there. 
 
