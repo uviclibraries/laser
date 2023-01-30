@@ -19,7 +19,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. Find an image you would like to engrave <img src="images/act3/lasercat.png" style="width:200px; float:right;" alt="objects">
  - You can use the cartoon cat image example, or choose your own line art photo from one of the websites below:
-A cute cartoon cat can be found [from pixabay](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/){:target="_blank"} .  
+ - A cute cartoon cat can be found from pixabay: [pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/](https://pixabay.com/illustrations/cat-cute-kitten-ball-wool-pet-4475583/){:target="_blank"} .  
     - [Vectorstock: full colour clip art](https://www.vectorstock.com/){:target="_blank"} 
     - [The noun project: free icon clip art](https://thenounproject.com/){:target="_blank"} 
     - [Biorender: biology clip art](https://biorender.com/){:target="_blank"} 
@@ -31,13 +31,12 @@ A cute cartoon cat can be found [from pixabay](https://pixabay.com/illustrations
  - Click File, then Import
  - Find the file that you downloaded and click Open.
     - A box may pop-up asking about import settings. The default settings are fine, click OK. 
-The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold **ctrl** while reducing its size then the height to width ratio will remain locked. 
+ - The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold **ctrl** while reducing its size then the height to width ratio will remain locked. 
  - With the image still selected, click on the Path menu, then **Trace Bitmap**.
 
    <img src="images/act3/act3-tracebitmap.PNG" style="width:500px;" alt="Trace bitmap">
 
- - Click on the **Update** button or select **Live Preview**. Now you should be able to see a preview of your image.
-Currently, we’re using the Brightness cutoff mode. Changing the Threshold value will change the amount of brightness needed in order to be converted to the new vector graphic. Try moving the Threshold between 0 to 1 and click on the Update button each time to see the image change.
+ - Click on the **Update** button or select **Live Preview**. Now you should be able to see a preview of your image. Currently, we’re using the Brightness cutoff mode. Changing the Threshold value will change the amount of brightness needed in order to be converted to the new vector graphic. Try moving the Threshold between 0 to 1 and click on the Update button each time to see the image change.
  - Change the Threshold to 0.7 so that the rosy cheeks of the cat comes through in the live preview. Click on Update and then OK. You can now exit out of the Trace Bitmap window. You may need to close the dialogue box by doing the following:
     - Mac: Click on the red button in the top left corner of the dialogue box 
     - Windows: Click on the red X button in the top right corner of the dialogue box 

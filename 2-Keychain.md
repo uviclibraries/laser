@@ -22,8 +22,8 @@ If you and your group have any questions or get stuck as you work through this i
  - Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
  - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this: <br> <img src="images/act2/act2-03.png" style="width:400px;" alt="menu">
  - Make sure the units are in **mm**.
- - Change the width (W) and height (H) to **35**. 
- - Change the x-radius (Rx) and y-radius (Ry) to **5**.
+ - Change the width (W) and height (H) to **35**.  You should now have a 35mm x 35mm square shape.
+ - Change the x-radius (Rx) and y-radius (Ry) to **5**.  This determines how rounded the corners of your square are.
  - Click on the Create circles, ellipses, and arcs <img src="images/act2/act2-04.png" style="width:20px;" alt="circle"> icon. 
  - Somewhere near the square you’ve created, click and drag to make an ellipse.
  - Similar to the rectangle, there’s a toolbar in the top left corner 
