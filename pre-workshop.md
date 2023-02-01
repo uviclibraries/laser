@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with **Inkscape or Photopea** in order to learn to use key features of the software for laser cutting. To participate fully please do the following **before the workshop**:
 
 **Download and Install Software**<br>
-- Download and Install [Inkscape here](https://inkscape.org/release/inkscape-1.2.2/windows/64-bit/msi/?redirected=1){:target="_blank"}
+- Download and Install [Inkscape here](https://inkscape.org/release/){:target="_blank"}
 
 **Watch pre-class Videos**<br>
 - [Laser Cutting Basics](https://www.instructables.com/id/Laser-Cutting-Basics/){:target="_blank"} (10 min)
