@@ -13,15 +13,15 @@ nav_order: 1
 
 ## What is laser cutting? 
 
-**Laser cutting** is a process for cutting materials to create 2D and 3D designs.  From a digital file (usually .svg or .dxf format), laser cutters use computer controlled high powered lasers to engrave or cut wood, metal, paper and more with high precision.
+**Laser cutting** is a process for cutting materials to create 2D and 3D designs.  From a digital file, laser cutters use computer controlled high powered lasers to engrave or cut wood, metal, paper and more with high precision.
 
 Laser cutting is a fast and accurate way to engrave objects, make boxes, and more!
 
 ## What tools do we use?
 
-[Inkscape](https://inkscape.org/){:target="_blank"} is a free and open source design tool for making and editing vector graphics.  Inkscape uses the standardized svg file format as its main format, which is supported by many other applications including web browsers.
+[Inkscape](https://inkscape.org/){:target="_blank"} is a free and open source design tool for making and editing vector graphics.  Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
 
-Another design tool is [Photopea](https://www.photopea.com/){:target="_blank"}, a free online image editor.  You can export designs in several formats including .svg. 
+Another design tool is [Photopea](https://www.photopea.com/){:target="_blank"}, a free online image editor.  You can export designs in several formats including .SVG. 
 
 This workshop is not an endorsement of Inkscape or Photopea; there are many options for 2D design and other software may be better for different contexts or preferences.
 
