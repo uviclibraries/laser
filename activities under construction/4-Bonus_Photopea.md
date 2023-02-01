@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 4 - BONUS - Remove a background in Photopea      
-nav_order: 4
-parent: Workshop Activities
 ---
 
 # Bonus Activity: Removing a Background from Images - UNDER CONSTRUCTION
