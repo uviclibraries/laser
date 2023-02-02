@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - Design a Pencil Holder using MakerCase
+title: 1a - Design a Pencil Holder using MakerCase
 nav_order: 2
 parent: Workshop Activities
 ---
@@ -37,7 +37,4 @@ If you and your group have any questions or get stuck as you work through this i
       -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  We need to consider this when designing our box._  
  - Click on **Download SVG**. This exports the plans as a .svg file which can then be viewed and edited in a browser or in a vector editing software such as Inkscape or Adobe Illustrator.
 
-
-### Congratulations - you've designed a box using MakerCase!
-
-[NEXT STEP: Design a Keychain in Inkscape](2-Keychain.html){: .btn .btn-blue }
+[NEXT STEP: Modify your box in Inkscape](1b-Modify-svg.html){: .btn .btn-blue }
