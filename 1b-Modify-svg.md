@@ -24,18 +24,16 @@ If you and your group have any questions or get stuck as you work through this i
 4. Change the units from inches to centimeters
  - Hold **Ctrl+Shift+D** to open the document properties window
     - _Note: depending on your version of Inkscape, the window may look slightly different._
- - Change the Front page units and Display units to **cm**
- - Click Resize to content to make the canvas resize to your box plans.
 
- <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window">
- <img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
+ - Change the Front page units and Display units to **cm**
+ - Click Resize to content to make the canvas resize to your box plans.<br>
+    <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window">
+    <img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
 
 5. Ungroup the shapes
  - To allow us to move each piece of the box separately we need to ungroup them.
  - Click on the box plans to select them.
- - In the top menu, select **Object > Ungroup**, or hold **Shift+Ctrl+G**.
-
- <img src="images/act1/act1b-text labels.png" style="margin-left:20px; float:right; width:300px;" alt="doc window">
+ - In the top menu, select **Object > Ungroup**, or hold **Shift+Ctrl+G**. <img src="images/act1/act1b-text labels.png" style="margin-left:20px; float:right; width:300px;" alt="doc window">
 
 6. Edit the text labels
  - Delete the bottom label by selecting it and pressing backspace or delete on your keyboard.
@@ -90,7 +88,7 @@ If you and your group have any questions or get stuck as you work through this i
 11. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting.
 
-<img src="images/act1/act1b-finalbox.png" style="margin-left:20px; width:400px;" alt="spiro">
+<img src="images/act1/act1b-finalbox.png" style="margin-left:20px; width:500px;" alt="spiro">
 
 ### Congratulations - you've edited your box in Inkscape!
 
