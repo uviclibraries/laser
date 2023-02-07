@@ -17,5 +17,6 @@ nav_order: 10
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 - Dani Johnson - workshop activities
+- Victoria Hartman - activity 1b and introduction slides
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
