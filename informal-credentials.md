@@ -3,7 +3,7 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-**BADGE COMING SOON** <img src="https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image" style="float:right;width:180px;"> 
+<img src="https://api.badgr.io/public/badges/zBRcMBDIRG6OzUbg1gUnig/image?imageVersion=2" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
@@ -13,10 +13,10 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr/Canvas page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for Laser Cutting - COMING SOON.
+### Earn an Informal Credential or Badge for Laser Cutting:
 
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. The .svg files from activity 2 and 3.
+1. The .svg files generated from two of the three activities (1b, 2, or 3)
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
