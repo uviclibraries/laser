@@ -37,6 +37,6 @@ At the end of this workshop, you will be able to:
 6. Find objects and designs online for laser cutting
 7. Create and modify 2D designs for engraving
 8. Design a 3D object with tab features for joining
-9. Export designs to .dxf or .svg file formats
+9. Export designs to .svg file format
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
