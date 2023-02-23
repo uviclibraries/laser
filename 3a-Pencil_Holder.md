@@ -30,11 +30,11 @@ If you and your group have any questions or get stuck as you work through this i
  
   <img src="images/act1/laser-act1-04.png" style="margin-left:20px; width:200px;" alt="download box plans">
 
- - Click over to the **Line Formatting** tab. Change the Line Width to **0.5 in** and the Line Color to **#FF0000**. These settings will change the vector lines to be a little thinner than the default and be red. Red is specified as the cut operation in the laser software.
+ - Click over to the **Line Formatting** tab. Change the Line Width to **0.2 in** and the Line Color to **#FF0000**. These settings will change the vector lines to be a little thinner than the default and be red. Red is specified as the cut operation in the laser software.
    <img src="images/act1/laser-act1-05.png" style="margin-left:20px; float:right;width:400px;" alt="line formatting">
    
  - Click on the Kerf tab. Technically, the kerf should be 0.004 in, but it’s easier to assemble the box if not all the kerf is accounted for, so enter 0.0035 in. <img src="images/act1/laser-act1-06.png" style="margin-left:20px; float:right;width:400px;" alt="laser symbol">
-      -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  We need to consider this when designing our box._  
+      -  _What is a kerf?  **Kerf** is the width of the cut made by the laser.  You'll need to consider this when designing parts that fit together._  
  - Click on **Download SVG**. This exports the plans as a .svg file which can then be viewed and edited in a browser or in a vector editing software such as Inkscape or Adobe Illustrator.
 
 [NEXT STEP: Modify your box in Inkscape](3b-Modify-svg.html){: .btn .btn-blue }

@@ -12,7 +12,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer.
 
-2. Open the **box.svg** file you downloaded in Activity 1a in Inkscape.
+2. Open the **box.svg** file you downloaded in Activity 3a in Inkscape.
 
 3. Get familiar with how to move around
  - Left-click is to select
