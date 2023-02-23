@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1b - Modify an svg in Inkscape
-nav_order: 3
+title: 3b - Modify an svg in Inkscape
+nav_order: 6
 parent: Workshop Activities
 ---
 
@@ -92,4 +92,4 @@ If you and your group have any questions or get stuck as you work through this i
 
 ### Congratulations - you've edited your box in Inkscape!
 
-[NEXT STEP: Design a Keychain in Inkscape](2-Keychain.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

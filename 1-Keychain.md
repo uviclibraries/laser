@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2 - Design a Keychain using Inkscape
-nav_order: 3
+title: 1 - Design a Keychain using Inkscape
+nav_order: 2
 parent: Workshop Activities
 ---
 # Workshop Activities
@@ -55,4 +55,4 @@ If you and your group have any questions or get stuck as you work through this i
 ### Congratulations - You've designed a keychain for laser cutting!
 
 
-[NEXT STEP: Prepare an Image for Engraving](3-Engraving.html){: .btn .btn-blue }
+[NEXT STEP: Prepare an Image for Engraving](2-Engraving.html){: .btn .btn-blue }

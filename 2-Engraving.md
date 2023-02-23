@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3 - Prepare an Image for Engraving with Inkscape
-nav_order: 4
+title: 2 - Prepare an Image for Engraving with Inkscape
+nav_order: 3
 parent: Workshop Activities
 ---
 # Engraving in Inkscape
@@ -51,4 +51,4 @@ If you and your group have any questions or get stuck as you work through this i
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting. 
  - Alternatively, you can copy and paste the graphic into another Inkscape project such as the pencil case from activity 1. 
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Design a Pencil Holder using MakerCase](3a-Pencil_Holder.html){: .btn .btn-blue }
