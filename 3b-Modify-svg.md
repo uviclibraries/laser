@@ -24,9 +24,8 @@ If you and your group have any questions or get stuck as you work through this i
 4. Change the units from inches to centimeters
  - Hold **Ctrl+Shift+D** to open the document properties window
     - _Note: depending on your version of Inkscape, the window may look slightly different._
-
  - Change the Front page units and Display units to **cm**
- - Click Resize to make the canvas resize to your box design.<br> <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window"><br><img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
+ - Click Resize to make the canvas resize to your box design.<br> <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window"><img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
 
 5. Ungroup the shapes
  - To allow us to move each piece of the box separately we need to ungroup them.
@@ -35,9 +34,9 @@ If you and your group have any questions or get stuck as you work through this i
 
 6. Edit the text labels
  - Delete the bottom label by selecting it and pressing backspace or delete on your keyboard.
- - Make the other text labels smaller by selecting them and dragging the corner handles, then move them out of the way by clicking and dragging them.
+ - Make the other text labels smaller by selecting them and using the corner handles, then click and drag to move them out of the way.
  - Change the fill and stroke color of the labels to blue by selecting them then clicking the blue box at the bottom of the inkscape screen.  Hold shift and click the blue to change the stroke.
-    - _Why are we changing the text color?_  The laser cutting software will cut red lines and engrave black/grayscale lines.  By making them blue we can use the labels as a reference when designing our box, but won’t actually engrave them on our box.  If you do want the labels engraved, you can make the text black instead.
+    - _Why are we changing the text color?_  The laser cutting software will cut red lines and engrave black/grayscale lines.  By making them blue we can use the labels as a reference when designing our box, but won’t actually engrave them on our box.  If you do want the labels engraved, you can make the text black or request special settings when submitting a laser cut request to the DSC.
 
 7. Add engraving text
  - Click on the Create and edit text <img src="images/act2/act2-10.png" style="width:20px;" alt="objects"> icon.
@@ -48,7 +47,11 @@ If you and your group have any questions or get stuck as you work through this i
     - To change the stroke, select the text, hold the Shift key then click on the color.
  - Use the Select and transform <img src="images/act2/act2-05.png" style="width:20px;" alt="square"> tool to move the text. You can also rotate and scale the text how you please.  Clicking on an object will swap back and forth between scaling and rotating handles.
 
-8. Add a hole
+8. Convert text to a path
+   - If you are using a special font, the laser cutter may not be able to read the text correctly unless it is converted to a path.  
+   - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C)
+
+9. Add a hole
  - Click on the Create circles, ellipses, and arcs <img src="images/act2/act2-04.png" style="width:20px;" alt="circle"> icon.
  - Somewhere inside the back box panel, click and drag to make an ellipse.
  - In the top left corner there’s a toolbar that looks like this:
@@ -61,11 +64,11 @@ If you and your group have any questions or get stuck as you work through this i
  - Click over to the Stroke paint tab. Select Flat color. The vector cutting color is a specific red in the laser software. In the RGB color selection, Change the red (R) value to 255 and change the green (G) and blue (B) values to 0.
 
 
-9. Optional: cut out more shapes
+10. Optional: cut out more shapes
  - Use the create stars and polygons <img src="images/act2/act2-13.png" style="width:20px;" alt="objects"> tool on the left bar to create different star and polygon shapes.
  - Play around with the star and polygon settings in the top menu to see how it changes each shape.
 
-10. Optional: Make a heart
+11. Optional: Make a heart
  - Select the **Draw Bezier** <img src="images/act1/act1b-bezier.png" style="width:20px;" alt="objects"> tool on the left sidebar 
  - From the top menu, select the **Create Spiro path** option <img src="images/act1/act1b-spiro-tool.png" style="width:25px;" alt="objects">.
  - Draw the right side of a heart shape, clicking to define each point where the curve changes (hint: you will need to click 4 times in total).<br>
@@ -83,7 +86,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Drag the heart to position it where you want on the box.  <img src="images/act1/act1b-finalfront.png" style="margin-left:20px; float:right; width:200px;" alt="spiro">
  - If needed, make the heart smaller by using the corner handles.
 
-11. Save
+12. Save
  - Click File, then Save As… to save your file. Inkscape’s native file format is .svg which is suitable for laser cutting.
 
 <img src="images/act1/act1b-finalbox.png" style="margin-left:20px; width:500px;" alt="spiro">
