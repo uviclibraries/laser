@@ -48,8 +48,8 @@ If you and your group have any questions or get stuck as you work through this i
  - Use the Select and transform <img src="images/act2/act2-05.png" style="width:20px;" alt="square"> tool to move the text. You can also rotate and scale the text how you please.  Clicking on an object will swap back and forth between scaling and rotating handles.
 
 8. Convert text to a path
-   - If you are using a special font, the laser cutter may not be able to read the text correctly unless it is converted to a path.  
-   - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C)
+   - Depending on the fonts you use, the laser cutter may not be able to read and engrave the text correctly unless it is converted to a path.  
+   - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C).
 
 9. Add a hole
  - Click on the Create circles, ellipses, and arcs <img src="images/act2/act2-04.png" style="width:20px;" alt="circle"> icon.
