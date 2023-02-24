@@ -45,11 +45,15 @@ If you and your group have any questions or get stuck as you work through this i
  - In the Fill and Stroke tool, ensure there is no stroke and the fill is black.
  - Use the Select and transform <img src="images/act2/act2-05.png" style="width:20px;" alt="square">  tool to move the text inside the rectangle. You can also rotate and scale the text how you please. <img src="images/act2/act2-14.png" style="width:200px; float:right;" alt="objects">
 
-5. Add other shapes 
+5. Convert text to a path
+   - Depending on the fonts you use, the laser cutter may not be able to read and engrave the text correctly unless it is converted to a path.  
+   - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C).
+
+6. Add other shapes 
  - If you want, you can add more shapes using rectangle, circle, or polygon <img src="images/act2/act2-13.png" style="width:20px;" alt="objects"> tools on the left side of the screen. 
  - Decide which shapes you want engraved, and which to be cut out. Follow the same Fill and Stroke steps as the rectangle if they are cut. Follow the same Fill and Stroke steps as the text if they are engraved.
 
-6. Save your file
+7. Save your file
  - Click **File**, then **Save As…** to save your file. Inkscape’s native file format is **.svg** which is suitable for laser cutting. 
 
 ### Congratulations - You've designed a keychain for laser cutting!
