@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3a - Design a Pencil Holder using MakerCase
-nav_order: 5
+nav_order: 4
 parent: Workshop Activities
 ---
 <img src="images/act1/laser-act1-01.png" style="margin-left:20px; float:right;width:200px;" alt="basic box">

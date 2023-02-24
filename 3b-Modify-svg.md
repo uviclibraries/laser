@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3b - Modify an svg in Inkscape
-nav_order: 6
+nav_order: 5
 parent: Workshop Activities
 ---
 
@@ -26,9 +26,7 @@ If you and your group have any questions or get stuck as you work through this i
     - _Note: depending on your version of Inkscape, the window may look slightly different._
 
  - Change the Front page units and Display units to **cm**
- - Click Resize to content to make the canvas resize to your box plans.<br>
-    <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window">
-    <img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
+ - Click Resize to make the canvas resize to your box design.<br> <img src="images/act1/act1b-document properties.png" style="margin-left:20px; width:300px;" alt="doc window"><br><img src="images/act1/act1b-document-menu.png" style="margin-left:20px; width:300px;" alt="doc window 2">
 
 5. Ungroup the shapes
  - To allow us to move each piece of the box separately we need to ungroup them.
