@@ -7,8 +7,11 @@ parent: Workshop Activities
 
 # Modify an svg Using Inkscape
 
-<img src="images/act2/inkscape-logo.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape logo">
+
+<img src="images/act3/assembled_box_crop.jpg" style="margin-left:20px; float:right;width:200px;" alt="finished box">
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+
+<img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
 
 1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer.
 
