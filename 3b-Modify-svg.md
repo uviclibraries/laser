@@ -85,8 +85,10 @@ If you and your group have any questions or get stuck as you work through this i
  - Drag the left side of the heart to line it up with the right side
  - Group the left and right sides of the heart: 
       - draw a box around both curves (or hold shift and click on both curves) 
-      - hold **ctrl+G** (or from the top menu select Object > Group).<br>
- - Drag the heart to position it where you want on the box.  <img src="images/act1/act1b-finalfront.png" style="margin-left:20px; float:right; width:200px;" alt="spiro">
+      - hold **ctrl+G** (or from the top menu select Object > Group).
+      
+ - Drag the heart to position it where you want on the box.  
+      <img src="images/act1/act1b-finalfront.png" style="margin-left:20px; float:right; width:200px;" alt="spiro">
  - If needed, make the heart smaller by using the corner handles.
 
 12. Save
