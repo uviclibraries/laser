@@ -14,6 +14,7 @@ nav_order: 10
 - [Make a Jigsaw Puzzle](http://dev.inventables.com/2016/02/26/generating-svg-jigsaw-puzzles.html){:target="_blank"}
 - [Joinery Tutorial](https://www.instructables.com/Joinery-Joints-for-Laser-Cut-Assemblies/){:target="_blank"}
 - [Solar Data Visualization](https://www.instructables.com/Making-Solar-Data-Visualizations/){:target="_blank"}
+- [Trotec: cutting technique for bending applications (flex cuts)](https://www.troteclaser.com/en-us/learn-support/helpcenter/bending-technique){:target="_blank"}
 
 ## Videos
 - [Inkscape Map Creation](https://www.youtube.com/watch?v=ZTEzOqq5RF8&ab_channel=DIY3DTECH.com){:target="_blank"}
