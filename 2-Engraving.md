@@ -35,7 +35,8 @@ If you and your group have any questions or get stuck as you work through this i
  - Click on the **Update** button or select **Live Preview**. Now you should be able to see a preview of your image. Currently, we’re using the Brightness cutoff mode. Changing the Threshold value will change the amount of brightness needed in order to be converted to the new vector graphic. Try moving the Threshold between 0 to 1 and click on the Update button each time to see the image change.
  - Change the Threshold to **0.7** so that the rosy cheeks of the cat comes through in the live preview. Click on **Update** and then OK. You can now exit out of the Trace Bitmap window. You may need to close the dialogue box by doing the following: 
     - **Mac:** Click on the red button in the top left corner of the dialogue box 
-    - **Windows:** Click on the red X button in the top right corner of the dialogue box<img src="images/act3/act3-bitmap2.PNG" style="width:300px; float:right;" alt="original vs vector">
+    - **Windows:** Click on the red X button in the top right corner of the dialogue box<br>
+    <img src="images/act3/act3-bitmap2.PNG" style="width:300px; float:right;" alt="original vs vector"><br>
  - The new vector graphic has been placed directly on top of the old one. Move the new graphic to a free space on the canvas. 
  - Try zooming in to look at both images closely. The newly created image is a vector graphic so the lines always stay crisp while zooming in.<br>
     <img src="images/act3/act3-eye1.PNG" style="width:150px;" alt="png eye"> 
