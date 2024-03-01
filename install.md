@@ -10,4 +10,4 @@ parent: Intermediate Activities
 - To access the education license, go to this [link](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual){:target="_blank"} and under Fusion 360 click **get product** and then click **access**
 - Once in Fusion 360, it will ask you to log in with your credentials and create a team, you can just title it your name. 
 
-[NEXT STEP: Interlocking Phone Stand](1b-iphone-stand.html){: .btn .btn-blue }
+[NEXT STEP: Interlocking Phone Stand](1b-phone-stand.html){: .btn .btn-blue }
