@@ -47,7 +47,7 @@ parent: Intermediate Activities
 - **Click** on the largest faces of the “Leg” and click on the **Combine** tool. Then select the “Back” rectangle as the “Tool Bodies”. **Change the operation to Cut**, and make sure that **Keep Tools** is checked. In the Combine pop-up box, **click OK**.
 - Now both parts have a cut where they will slide perfectly into each other. 
 
-4.Create fillets: 
+4. Create fillets: 
 - To make rounded edges, we will apply fillets to our parts.
 - First, click on the Fillet tool and select one edge of your parts (you want to fillet the corners of each of your parts). Enter 5mm as the radius value. The change is reflected in the 3D model. Change the number as needed to create your desired look. In the Fillet pop-up box, click on OK. Repeat this step for all 8 corners of the 2 pieces that make up your phone stand. *You can select multiple corners and apply the fillet to all of them at once if this is easier for you*
 - From the left browsing panel, turn off the visibility of one of your parts by clicking on the eye icon next to the component’s name, and Zoom to the area where there is a cut to allow the pieces to join. Click on the Fillet tool and click on the edges of the cut (these should be the short lines on the side of your part). Apply a fillet of 0.5mm. In the Fillet pop-up box, click on OK.
