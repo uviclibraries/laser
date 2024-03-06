@@ -16,7 +16,8 @@ parent: Intermediate Activities
 2. Create the basic shape of the phone stand:
 - Start a new sketch by clicking **Create Sketch**. It will prompt you to select a plane. A good practice is to select the plane from which the object would be viewed in real life.
 - Select the **3-Point Rectangle tool**, this tool can be found under the create header, then under the rectangle option.
-- Place the first corner at the **origin** at the middle of the screen. **Click** to place a second corner somewhere above and right of the origin, then **drag the rectangle upwards and right**. This will be the back of your phone stand.
+- Place the first corner at the **origin** at the middle of the screen. **Click** to place a second corner somewhere above and right of the origin, then **drag the rectangle upwards and 
+ click to make your rectangle**. This will be the back of your phone stand.
 - Click the **Esc key** to exit the 3-Point Rectangle tool.
 - Try moving the sides of the rectangle around by **selecting and dragging the blue edges of the rectangle**.
 - Select the **Sketch Dimension** tool.  **Click** on the short end of the rectangle, enter **the thickness of your material to be laser cut** (in this case, 3mm). Move your mouse slightly above the line on the long side of the rectangle and click again. **Enter the height of your phone plus about 20mm** as the dimension (in this case, 160mm). 
@@ -26,14 +27,15 @@ parent: Intermediate Activities
 - Click the **Esc key** to exit the 3-Point Rectangle tool.
 - Select the **Sketch Dimension tool**. **Click** on the short end of the rectangle, **enter the thickness of your material to be laser cut (in this case, 3mm)**. Move your mouse slightly above the line on the long side of the rectangle and **click again. Enter the 87 mm** as the dimension.
 - Still in the Dimension tool, **click** on the bottom long side of the sketch for your back piece, and then **click** on the top long side of your leg piece. This will show you the angle between the two sides. **Enter 90 as the dimension**.
-- **Click** on the top long side of the back piece, then **click** on the top right corner of the leg piece, **make the dimension 30mm**.
+- **Click** on the top long side of the back piece, then **click** on the top corner of the leg piece (on the left of your shape), **make the dimension 30mm**.
 - **Click** on the top long side of the leg piece and then **click** on the origin point, **make the dimension 25mm**.
 - Click the **Esc key** to exit the Dimension tool.
 - Optional: **Click and drag up** the bottom right corner of your leg piece, so that the corner is sitting on the weight of the red line in the center of the screen. Doing this will allow you to see the silhouette of your phone stand in its final orientation. 
 - **Click Finish Sketch**.
+- Your sketch should look like the image on the right.
   
 3. Extrude the pieces from your sketch:
-- Click on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature .
+- Click on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature.
 - **Select** the interior faces of the 3 shapes that make up the back piece from your sketch.
 - In the Extrude pop-up box, **enter 80mm as the distance**. **Change** the Operation to **New Component**. **Click OK**.
 - In the left browsing panel, you can see that a new component has been created. **Right click** on the title of the component and **choose “rename”. Rename** the component as “Back”.
