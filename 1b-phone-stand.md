@@ -11,7 +11,7 @@ parent: Intermediate Activities
 - **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate**.
 - **Scroll** the **mouse wheel** to **zoom** in and out.
 - **Click** to **select**.
--**Press Esc** to **clear a selection**.
+- **Press Esc** to **clear a selection**.
 
 2. Create the basic shape of the phone stand: <img src="images/act4/01_complete_stand.png" style="width:20px;" alt="">
 - Start a new sketch by clicking **Create Sketch**. It will prompt you to select a plane. A good practice is to select the plane from which the object would be viewed in real life.
