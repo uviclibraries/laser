@@ -14,7 +14,7 @@ parent: Intermediate Activities
 - **Press Esc** to **clear a selection**.
 
 2. Create the basic shape of the phone stand: 
-- Start a new sketch by clicking **Create Sketch** <img src="images/act4/32create_sketch.png" style="width:150px;" alt="">. It will prompt you to select a plane. A good practice is to select the plane from which the object would be viewed in real life.
+- Start a new sketch by clicking **Create Sketch** <img src="images/act4/32create_sketch.png" style="width:100px;" alt="">. It will prompt you to select a plane. A good practice is to select the plane from which the object would be viewed in real life.
 - Select the **3-Point Rectangle tool**, this tool can be found under the create header, then under the rectangle option. <img src="images/act4/02_3pointrec.png" style="width:250px;" alt="">
 - Place the first corner at the **origin** at the middle of the screen. **Click** to place a second corner somewhere above and right of the origin, then **drag the rectangle upwards and 
  click to make your rectangle**. This will be the back of your phone stand. <img src="images/act4/02_give_dim.png" style="width:250px;" alt="">
