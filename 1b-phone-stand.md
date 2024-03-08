@@ -66,8 +66,7 @@ parent: Intermediate Activities
     - **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="joint icon">, then **click on the face of your part as Component 1**.
     - **Choose the origin point as the snap for Component 2** in the Joint pop-up box. <img src="images/act4/17_select_comp.png" style="float:right;width:350px;" alt="">
     - **Use the gray arrows to move the piece** to ensure that both parts are not overlapped. *The second part can be moved in any direction, however, make sure to keep an offset Z of 0 so that both parts remain on the same plane.
- <img src="images/act4/18_move.png" style="float:right;width:350px;" alt="">
-    - **Click OK** in the Joint pop-up box.
+    - **Click OK** in the Joint pop-up box. <img src="images/act4/18_move.png" style="float:right;width:350px;" alt="">
       <img src="images/act4/19_final_move.png" style="float:right;width:350px;" alt="">
 
 6. Export files for laser cutting:
