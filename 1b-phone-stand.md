@@ -33,14 +33,14 @@ parent: Intermediate Activities
 - Click the **Esc key** to exit the Dimension tool.
 - Optional: **Click and drag up** the bottom right corner of your leg piece, so that the corner is sitting on the weight of the red line in the center of the screen. Doing this will allow you to see the silhouette of your phone stand in its final orientation. 
 - **Click Finish Sketch** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="finish sketch icon">.
-- Your sketch should look like the image on the right. <img src="images/act4/06_final_sketch.png" style="float:right;width:300px;" alt="">
+- Your sketch should look like the image on the right. <img src="images/act4/06_final_sketch.png" style="width:300px;" alt="">
   
 3. Extrude the pieces from your sketch:
 - Click on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act4/34extrude.png" style="width:25px;" alt="extrude icon">.
-- **Select** the interior faces of the 3 shapes that make up the back piece from your sketch. <img src="images/act4/07_extrude1.png" style="float:right;width:210px;" alt="">
+- **Select** the interior faces of the 3 shapes that make up the back piece from your sketch. <img src="images/act4/07_extrude1.png" style="float:right;width:350px;" alt="">
 - In the Extrude pop-up box, **enter 80mm as the distance**. **Change** the Operation to **New Component**. **Click OK**.
 - In the left browsing panel, you can see that a new component has been created. **Right click** on the title of the component and **choose “rename”. Rename** the component as “Back”. 
-- Try rotating the part to view it in 3D by holding down the shift key and the mouse wheel. <img src="images/act4/08_rename.png" style="float:right;width:350px;" alt="">
+- Try rotating the part to view it in 3D by holding down the shift key and the mouse wheel. <img src="images/act4/08_rename.png" style="float:right;width:250px;" alt="">
 - Ensure the sketch of your phone stand is visible. If you do not see the outline of your back and leg pieces (in light blue), the sketch is not visible. To make the sketch visible, **click on the eye icon** next to the folder named ‘Sketches’ on the left browsing panel. You should now see your sketch in light blue. <img src="images/act4/09_visible.png" style="width:175px;" alt="">
 - Click on the **Extrude tool** <img src="images/act4/34extrude.png" style="width:25px;" alt="extrude icon">. **Select the small square** where the two pieces of your phone stand will intersect.
 - In the Extrude pop-up box, **enter 50mm as the distance**, and make sure that the Operation is set to **Cut**. *Depending on the orientation of your model, this might result in an error ‘No target body found to cut or intersect!’, if this is the case, add a negative in front of your distance.* **Click OK**. <img src="images/act4/10_cut.png" style="float:right;width:350px;" alt="">
