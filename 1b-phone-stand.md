@@ -86,5 +86,5 @@ Congratulations, your file is ready for laser cutting and can be uploaded to the
 
 
 
-
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue } or <br>
+[OPTIONAL: Adding text](1c-adding-text.html){: .btn .btn-blue }
