@@ -5,11 +5,11 @@ nav_order: 3
 parent: Intermediate Activities
 ---
 
-# Fusion 360 for Laser Cutting – Interlocking Phone Stand Activity
+# Fusion 360 for Laser Cutting – Interlocking Phone Stand Activity <img src="images/act4/01_complete_stand.png" style="float:right;width:300px;" alt="">
 1. Launch Fusion 360 and get familiar with how to move around:
 - **Hold down** the **mouse wheel** and **drag** to **move**.
 - **Press** the **shift key** while **holding down** the **mouse wheel** to **rotate**.
-- **Scroll** the **mouse wheel** to **zoom** in and out. <img src="images/act4/01_complete_stand.png" style="float:right;width:300px;" alt="">
+- **Scroll** the **mouse wheel** to **zoom** in and out. 
 - **Click** to **select**.
 - **Press Esc** to **clear a selection**.
 
