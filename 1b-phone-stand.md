@@ -56,11 +56,11 @@ parent: Intermediate Activities
 - **Repeat** the previous step with the other part of your phone stand. Applying this fillet is helpful to facilitate the joint of both parts once they are laser cut. Your completed stand should look like the image on the right: <img src="images/act4/14_final_fillet.png" style="width:250px;" alt="">
 
 5. Lay pieces flat:
-- **Click on Joint** <img src="images/act4/37joint.png" style="width:50px;" alt="">, then **select the face of one of your parts as Component 1.** <img src="images/act4/16_flat.png" style="width:250px;" alt="">
+- **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="">, then **select the face of one of your parts as Component 1.** <img src="images/act4/16_flat.png" style="width:250px;" alt="">
 - **Make visible the origin** in the left browsing panel by clicking on the eye icon next to the folder titled ‘Origin’.
 - **Choose the Origin point as the snap point for Component 2** and **select Ok** in the Joint pop-up box. Your part will now rotate to be flat relative to the origin point. <img src="images/act4/17_select_comp.png" style="width:250px;" alt="">
 - **Repeat** this process for the second part of your model by:
-    - **Click on Joint** <img src="images/act4/37joint.png" style="width:50px;" alt="">, then **click on the face of your part as Component 1**.
+    - **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="">, then **click on the face of your part as Component 1**.
     - **Choose the origin point as the snap for Component 2** in the Joint pop-up box.
     - **Use the gray arrows to move the piece** to ensure that both parts are not overlapped. *The second part can be moved in any direction, however, make sure to keep an offset Z of 0 so that both parts remain on the same plane. <img src="images/act4/18_move.png" style="width:250px;" alt="">
     - **Click OK** in the Joint pop-up box. <img src="images/act4/19_final_move.png" style="width:250px;" alt="">
