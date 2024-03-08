@@ -6,15 +6,20 @@ parent: Intermediate Activities
 ---
 # Adding text (or designs) to parts in Fusion 360
 
+You will need to start with a flat piece to add text or other designs to your laser-cut parts in Fusion 360. If you do not have one, start by doing activity 1b to create an interlocking phone stand. 
+
 1. Create your sketch
-- Click Create Sketch and select the face where you want to have your design or text. 
-- Click on the Create drop down list, and then Text. Insert a text frame in the desired location. Once the text frame is defined, the Text pop-up box will expand. Insert your text in the Text box and adjust your font, typeface, height and alignment, to your liking. Click OK on the Text pop-up box. 
+- **Click Create Sketch** and select the face where you want to have your design or text. 
+- **Click on the Create** drop down list, and then **Text**. Insert a text frame in the desired location. Once the text frame is defined, the Text pop-up box will expand. Insert your text in the Text box and adjust your font, typeface, height and alignment, to your liking. Click OK on the Text pop-up box. 
 - Click Finish Sketch.
   
 2. Extrude your design
 - Click Extrude and select the text you just added. Make the distance a larger distance than the thickness of your material (in this case, dimension -5mm). Make sure that Operation is set to Cut. **The distance may be a positive or negative value based on your model, if you get an error saying that there is no material found to be cut, add or remove the “-” sign.**
-- Click OK on the Extrude pop-up box. 
-- Follow instructions 6 to lay your parts flat. *If your design is already ready for laser cutting (aka does not have parts that are not connected to the main design or if you plan on engraving your design rather than doing a cut, you can stop here and continue to steps 7 and 8. If you want to cut through and have areas that would no longer be attached to your part, continue following these instructions. 
+- **Click OK** on the Extrude pop-up box.
+
+- *If your design is already ready for laser cutting (aka does not have parts that are not connected to the main design or if you plan on engraving your design rather than doing a cut, you can stop here and continue to steps 7 and 8. If you want to cut through and have areas that would no longer be attached to your part, continue following these instructions.
+
+4.
 - Click on New Component, select the plane (orange square) that is most visible when looking at your parts from the top view. Do not select your parts as the plane! Name the Component as desired and click OK in the New Component pop-up box. 
 - Your parts should now look almost like shadows. 
 - Create a new sketch by clicking on the Create Sketch button. Select the plane (orange square) that is most visible when looking at your parts from the top view. Do not select your parts as the plane!
