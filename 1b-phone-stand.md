@@ -59,8 +59,9 @@ parent: Intermediate Activities
   <img src="images/act4/15_final_fillet.png" style="float:right;width:210px;" alt="">
 
 5. Lay pieces flat:
-- **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="joint icon">, then **select the face of one of your parts as Component 1.** <img src="images/act4/16_flat.png" style="float:right;width:210px;" alt="">
+- **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="joint icon">, then **select the face of one of your parts as Component 1.** 
 - **Make visible the origin** in the left browsing panel by clicking on the eye icon next to the folder titled ‘Origin’.
+- <img src="images/act4/16_flat.png" style="float:right;width:210px;" alt="">
 - **Choose the Origin point as the snap point for Component 2** and **select Ok** in the Joint pop-up box. Your part will now rotate to be flat relative to the origin point. 
 - **Repeat** this process for the second part of your model by:
     - **Click on Joint** <img src="images/act4/37joint.png" style="width:25px;" alt="joint icon">, then **click on the face of your part as Component 1**.
