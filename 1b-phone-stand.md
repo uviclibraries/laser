@@ -31,7 +31,7 @@ parent: Intermediate Activities
 - **Click** on the top long side of the leg piece and then **click** on the origin point, **make the dimension 25mm**.
 - Click the **Esc key** to exit the Dimension tool.
 - Optional: **Click and drag up** the bottom right corner of your leg piece, so that the corner is sitting on the weight of the red line in the center of the screen. Doing this will allow you to see the silhouette of your phone stand in its final orientation. 
-- **Click Finish Sketch** <img src="images/act4/36finish_sketch.png" style="width:25px;" alt="">.
+- **Click Finish Sketch** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="">.
 - Your sketch should look like the image on the right. <img src="images/act4/06_final_sketch.png" style="width:300px;" alt="">
   
 3. Extrude the pieces from your sketch:
@@ -68,7 +68,7 @@ parent: Intermediate Activities
 6. Export files for laser cutting:
 - **Rotate** your view to see the top face of your piece.
 - **Click on Create Sketch** <img src="images/act4/32create_sketch.png" style="width:25px;" alt=""> and **select the face of one of your parts as the plane.**
-- **Click on Finish Sketch.** <img src="images/act4/36finish_sketch.png" style="width:25px;" alt="">
+- **Click on Finish Sketch.** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="">
 - **Repeat** for your other part.
 - **Right-click on your sketch from the left browsing panel.** Choose **Save as a DXF**. Name your design and save it on your computer. <img src="images/act4/20_dxf.png" style="width:250px;" alt="">
 
