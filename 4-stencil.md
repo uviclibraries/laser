@@ -53,26 +53,26 @@ Click on the Page icon, a background colour pop-up box will appear. Use the colo
 
 3. Creating bridges
    
-When making a stencil, it is very important to think about the structural integrity and strength of the final product. Bridges must therefore be created between areas that should not be cut out completely. 
-Elements of your design that are the same colour as your background, need to be connected with bridges.  
-To create a bridge:
-First, use the eraser tool to create links between the part you want to connect to the background, and the background. 
-- Select the eraser tool
-- Make sure “cut from path and shapes” and “Break apart cut items” are selected
-- Cut through the desired area
-Then, select one of the drawing tools, both the “Draw Bezier curves and straight lines” and the “Draw freehand lines” tools work well. 
-If using the “Draw Bezier curves and straight lines” tool: Make sure to have the “Create a sequence of straight line segments” mode to create a perfectly straight line. Select the first point of your line, then the second. Hit Enter. Your line will appear and can be moved or modified. 
-If using the “Draw freehand lines” tool, click on the starting point of your line and drag the cursor across the desired area. When released, the line will appear and can then be modified. 
-To ensure that your line will be visible by the laser cutter, make sure that your line is red and that the width is of 0.01mm.
+- When making a stencil, it is very important to think about the structural integrity and strength of the final product. Bridges must therefore be created between areas that should not be cut out completely. 
+- Elements of your design that are the same colour as your background, need to be connected with bridges.  
+- To create a bridge:
+- First, use the eraser tool to create links between the part you want to connect to the background, and the background. 
+   - Select the eraser tool
+   - Make sure “cut from path and shapes” and “Break apart cut items” are selected
+   - Cut through the desired area
+- Then, select one of the drawing tools, both the “Draw Bezier curves and straight lines” and the “Draw freehand lines” tools work well. 
+- If using the “Draw Bezier curves and straight lines” tool: Make sure to have the “Create a sequence of straight line segments” mode to create a perfectly straight line. Select the first point of your line, then the second. Hit Enter. Your line will appear and can be moved or modified. 
+- If using the “Draw freehand lines” tool, click on the starting point of your line and drag the cursor across the desired area. When released, the line will appear and can then be modified. 
+- To ensure that your line will be visible by the laser cutter, make sure that your line is red and that the width is of 0.01mm.
 
 4. Creating more bridges
    
-Repeat until all the parts that are the same colour as your background have bridges (connection points) to the background. 
-Some areas might need multiple bridges to ensure strength of the final stencil.
+- Repeat until all the parts that are the same colour as your background have bridges (connection points) to the background. 
+- Some areas might need multiple bridges to ensure strength of the final stencil.
 
 5. Changing the fill colour of your design
 
-Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. This can be done by selecting your object, and clicking on the white square or the gray square with a red X at the bottom of the screen. 
-It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box.
+- Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. This can be done by selecting your object, and clicking on the white square or the gray square with a red X at the bottom of the screen. 
+- It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box.
 
 Congratulations, your design is now ready to be laser cut and used as a stencil!
