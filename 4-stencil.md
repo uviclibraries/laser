@@ -5,4 +5,4 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-# Modify an svg Using Inkscape
+# Making a Stencil for Laser Cutting
