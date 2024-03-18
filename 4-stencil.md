@@ -30,15 +30,15 @@ In the first example, the logo is unaltered, leading to the robotics text being 
 
 1. Find an image you would like to turn into a stencil
    
-You can use the Canadian goose image example, or choose your own line art photo from one of the websites below: 
-- Vectorstock: full colour clip art
-- The noun project: free icon clip art
-- Biorender: biology clipart
-If your image is in the svg. format, it can be imported or copied to Inkscape as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design. 
-Click File, then Import
-Find the file that you downloaded and click Open.
-A box may pop-up asking about import settings. The default settings are fine, click OK.
-The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold ctrl while reducing its size then the height to width ratio will remain locked.
+- You can use the Canadian goose image example, or choose your own line art photo from one of the websites below: 
+   - Vectorstock: full colour clip art
+   - The noun project: free icon clip art
+   - Biorender: biology clipart
+- If your image is in the svg. format, it can be imported or copied to Inkscape as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design. 
+- Click File, then Import
+- Find the file that you downloaded and click Open.
+- A box may pop-up asking about import settings. The default settings are fine, click OK.
+- The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold ctrl while reducing its size then the height to width ratio will remain locked.
 
 2. Add a red outline to your design
    
