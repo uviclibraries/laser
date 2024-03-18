@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # Making a Stencil for Laser Cutting
 
-<img src="images/act3/_____________" style="margin-left:20px; float:right;width:200px;" alt="">
+<img src="images/act3/17.final_cut" style="margin-left:20px; float:right;width:200px;" alt="stencil of a Canadian Goose">
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 <img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
@@ -16,15 +16,15 @@ If you and your group have any questions or get stuck as you work through this i
 
 **Is your image good for making a stencil?**
 
-Not all images are created equally, and not all images can be used as-is for stencils. Actually, most images and logos will require some modifications to ensure that detail is not lost and that the final product is strong and durable. 
+Not all images are created equally, and not all images can be used as-is for stencils. Most images and logos will require some modifications to ensure that detail is not lost and that the final product is strong and durable. 
 
-In this activity, you will learn how to identify what parts of your image or logo might need to be modified in order to create a stencil. As well as how to create bridges (connection points) between your design and your material. 
+In this activity, you will learn how to identify what parts of your image or logo might need to be modified to create a stencil. As well as how to create bridges (connection points) between your design and your material. 
 
 Alternatively, it might be possible to modify your design to make it stencil-ready by using the stencil font or simplifying your design. 
 
-Ex 1:                                                                    
-Ex 2:
-Ex 3:
+Ex 1: <img src="images/act3/01.logo" style="margin-left:20px; float:right;width:200px;" alt="">  <img src="images/act3/02.logo_cut" style="margin-left:20px; float:right;width:200px;" alt="">                                                                  
+Ex 2: <img src="images/act3/03.logo2" style="margin-left:20px; float:right;width:200px;" alt="">  <img src="images/act3/04.logo2_cut" style="margin-left:20px; float:right;width:200px;" alt="">  
+Ex 3: <img src="images/act3/05.logo3" style="margin-left:20px; float:right;width:200px;" alt="">  <img src="images/act3/06.logo3_cut" style="margin-left:20px; float:right;width:200px;" alt="">  
 
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
 
