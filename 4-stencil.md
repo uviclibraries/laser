@@ -29,6 +29,7 @@ Ex 3:
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
 
 1. Find an image you would like to turn into a stencil
+   
 You can use the Canadian goose image example, or choose your own line art photo from one of the websites below: 
 - Vectorstock: full colour clip art
 - The noun project: free icon clip art
@@ -40,6 +41,7 @@ A box may pop-up asking about import settings. The default settings are fine, cl
 The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold ctrl while reducing its size then the height to width ratio will remain locked.
 
 2. Add a red outline to your design
+   
 When working with laser cutters, the industry standard is to use red to indicate a cut. To add this outline:
 Select your design by clicking on your object. To add or modify the stroke, use the options under the  “Fill and Stroke” tab, which is on the right handside of the page (or that can be found under Object -> Fill and Stroke).
 Change the stroke to a solid colour, and make the stroke red and with the width of 0.01mm. 
@@ -50,6 +52,7 @@ To change the background, Click on File, then on Document Properties
 Click on the Page icon, a background colour pop-up box will appear. Use the colour wheel and select a high contrast colour. Exit the pop-up box by clicking on the “X” and re[eat this to close the Document Properties pop-up box. 
 
 3. Creating bridges
+   
 When making a stencil, it is very important to think about the structural integrity and strength of the final product. Bridges must therefore be created between areas that should not be cut out completely. 
 Elements of your design that are the same colour as your background, need to be connected with bridges.  
 To create a bridge:
@@ -63,10 +66,12 @@ If using the “Draw freehand lines” tool, click on the starting point of your
 To ensure that your line will be visible by the laser cutter, make sure that your line is red and that the width is of 0.01mm.
 
 4. Creating more bridges
+   
 Repeat until all the parts that are the same colour as your background have bridges (connection points) to the background. 
 Some areas might need multiple bridges to ensure strength of the final stencil.
 
-5- Changing the fill colour of your design
+5. Changing the fill colour of your design
+
 Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. This can be done by selecting your object, and clicking on the white square or the gray square with a red X at the bottom of the screen. 
 It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box.
 
