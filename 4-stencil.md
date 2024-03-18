@@ -14,7 +14,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 - If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer.
 
-Is your image good for making a stencil?
+**Is your image good for making a stencil?**
 
 Not all images are created equally, and not all images can be used as-is for stencils. Actually, most images and logos will require some modifications to ensure that detail is not lost and that the final product is strong and durable. 
 
