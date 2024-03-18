@@ -35,16 +35,18 @@ In the first example, the logo is unaltered, leading to the robotics text being 
    - The noun project: free icon clip art
    - Biorender: biology clipart
 - If your image is in the svg. format, it can be imported or copied to Inkscape as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design. 
-- Click File, then Import
-- Find the file that you downloaded and click Open.
-- A box may pop-up asking about import settings. The default settings are fine, click OK.
+- **Click File**, then **click on Import**
+- Find the file that you downloaded and **click Open**.
+- A box may pop-up asking about import settings. The default settings are fine, **click OK**.
 - The image may be very large. If it needs to be scaled down then click on the image and use the arrows to change its size. If you hold ctrl while reducing its size then the height to width ratio will remain locked.
 
 2. Add a red outline to your design
    
-When working with laser cutters, the industry standard is to use red to indicate a cut. To add this outline:
-Select your design by clicking on your object. To add or modify the stroke, use the options under the  “Fill and Stroke” tab, which is on the right handside of the page (or that can be found under Object -> Fill and Stroke).
-Change the stroke to a solid colour, and make the stroke red and with the width of 0.01mm. 
+- When working with laser cutters, the industry standard is to use red to indicate a cut.
+- To add this outline:
+   - **Select your design** by clicking on your object.
+   - To add or modify the stroke, use the **options under the  “Fill and Stroke” tab, which is on the right handside of the page (or that can be found under Object -> Fill and Stroke).**
+- **Change the stroke to a solid colour**, and make the stroke **red** and with the **width of 0.01mm**. 
 
 
 It can sometimes be hard to visualize what parts of your design will consist of the material to be cut, and what parts will be holes where you can apply paint to apply your design. Changing the background of your page can be helpful to better illustrate how your final product will look.
