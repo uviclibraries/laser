@@ -38,8 +38,20 @@ You will need to start with a flat piece to add text or other designs to your la
 - In the left browsing panel, **open the sketches folder** for your new component using the triangle. 
 - **Right-click on the sketch and select Save as DXF. Name your design and save it on your computer.** 
 
-4. 
+4. Export files for laser cutting
+   
+- **Rotate** your view to see the top face of your piece.
+- **Click on Create Sketch** <img src="images/act4/32create_sketch.png" style="width:25px;" alt="create sketch icon"> and **select the face of one of your parts as the plane.**
+- **Click on Finish Sketch.** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="finish sketch icon">
+- **Repeat** for your other part.
+- **Right-click on your sketch from the left browsing panel.** Choose **Save as a DXF**. Name your design and save it on your computer. <img src="images/act4/20_dxf.png" style="float:right;width:250px;" alt="">
 
+5. Importing DXF files into Inkscape
+   
+- **Open Inkscape**. 
+- **Click on the Import button** and select your files. **Click OK** on both pop-up boxes.
+- **Move the pieces as needed** and make any design changes you would like to add. <img src="images/act4/21_importinkscape.png" style="float:right;width:350px;" alt=""> If you want any parts of the design engraved, rather than cut, make sure to change the colour of the stroke and fill accordingly. *Red stroke is standard for cut, and Black fill or stroke is typical for engraving. * Additional design elements can be added at this time to your files as well.
+- **Save the file as an SVG**.
 
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
