@@ -84,6 +84,6 @@ It can sometimes be hard to visualize what parts of your design will consist of 
 - Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. <img src="images/act3/16.final.png" style="float:right;width:200px;" alt="">  This can be done by **selecting your object**, and **clicking on the white square or the gray square with a red X at the bottom of the screen.** 
 - It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box. <img src="images/act3/17.final_cut.png" style="float:right;width:200px;" alt="">  
 
-Congratulations, your design is now ready to be laser cut and used as a stencil!
+**Congratulations, your design is now ready to be laser cut and used as a stencil!**
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
