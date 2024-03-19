@@ -30,25 +30,15 @@ Ex 2:
 <img src="images/act3/03.logo2.png" style="float:right;width:200px;" alt="">  
 <img src="images/act3/04.logo2_cut.jpg" style="float:right;width:200px;" alt=""> 
 
-
-
-
-
 Ex 3: 
 <img src="images/act3/05.logo3.png" style="float:right;width:200px;" alt="">  
-
-
-
-
 <img src="images/act3/06.logo3_cut.png" style="float:right;width:200px;" alt="">  
-
-
 
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
 
 1. Find an image you would like to turn into a stencil
    
-- You can use the Canadian goose image example, or choose your own line art photo from one of the websites below: 
+- You can use the Canadian goose image example, <img src="images/act3/07.goose.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
    - Vectorstock: full colour clip art
    - The noun project: free icon clip art
    - Biorender: biology clipart
@@ -62,9 +52,9 @@ In the first example, the logo is unaltered, leading to the robotics text being 
    
 - When working with laser cutters, the industry standard is to use red to indicate a cut.
 - To add this outline:
-   - **Select your design** by clicking on your object.
-   - To add or modify the stroke, use the **options under the  “Fill and Stroke” tab, which is on the right handside of the page (or that can be found under Object -> Fill and Stroke).**
-- **Change the stroke to a solid colour**, and make the stroke **red** and with the **width of 0.01mm**. 
+   - **Select your design** by clicking on your object. <img src="images/act3/08.fill_stroke.png" style="float:right;width:200px;" alt="">  
+   - To add or modify the stroke, use the **options under the  “Fill and Stroke” tab, which is on the right handside of the page (or that can be found under Object -> Fill and Stroke).** <img src="images/act3/09.colour.png" style="float:right;width:200px;" alt="">  
+- **Change the stroke to a solid colour**, and make the stroke **red** and with the **width of 0.01mm**. <img src="images/act3/10.explanation.png" style="float:right;width:200px;" alt="">  
 
 It can sometimes be hard to visualize what parts of your design will consist of the material to be cut, and what parts will be holes where you can apply paint to apply your design. Changing the background of your page can be helpful to better illustrate how your final product will look.
 - To change the background, **Click on File**, then **click on Document Properties**
@@ -75,23 +65,23 @@ It can sometimes be hard to visualize what parts of your design will consist of 
 - When making a stencil, it is very important to think about the structural integrity and strength of the final product. Bridges must therefore be created between areas that should not be cut out completely. 
 - Elements of your design that are the same colour as your background, need to be connected with bridges.  
 - To create a bridge:
-- First, use the **eraser tool** to create links between the part you want to connect to the background, and the background. 
+- First, use the **eraser tool** to create links between the part you want to connect to the background, and the background. <img src="images/act3/11.cut.png" style="float:right;width:200px;" alt="">  
    - **Select the eraser tool**
-   - Make sure **“Cut from path and shapes”** and **“Break apart cut items”** are selected
+   - Make sure **“Cut from path and shapes”** and **“Break apart cut items”** are selected <img src="images/act3/12.cut_exp.png" style="float:right;width:200px;" alt="">  
    - **Cut through the desired area**
 - Then, **select one of the drawing tools**, both the “Draw Bezier curves and straight lines” and the “Draw freehand lines” tools work well. 
-   - If using the “Draw Bezier curves and straight lines” tool: Make sure to have the **“Create a sequence of straight line segments”** mode to create a perfectly straight line. **Select the first point of your line, then the second. Hit Enter.** Your line will appear and can be moved or modified. 
-   - If using the “Draw freehand lines” tool, **click on the starting point of your line and drag the cursor across the desired area.** When released, the line will appear and can then be modified. 
+   - If using the “Draw Bezier curves and straight lines” tool: Make sure to have the **“Create a sequence of straight line segments”** mode to create a perfectly straight line. <img src="images/act3/13.line.png" style="float:right;width:200px;" alt="">   **Select the first point of your line, then the second. Hit Enter.** Your line will appear and can be moved or modified. 
+   - If using the “Draw freehand lines” tool, **click on the starting point of your line and drag the cursor across the desired area.** When released, the line will appear and can then be modified. <img src="images/act3/14.line_adj.png" style="float:right;width:200px;" alt="">  
 - To ensure that your line will be visible by the laser cutter, **make sure that your line is red and that the width is of 0.01mm.**
 
 4. Creating more bridges
    
-- **Repeat** until all the parts that are the same colour as your background have bridges (connection points) to the background. 
+- **Repeat** until all the parts that are the same colour as your background have bridges (connection points) to the background. <img src="images/act3/15.bridges.png" style="float:right;width:200px;" alt="">  
 - Some areas might need multiple bridges to ensure strength of the final stencil.
 
 5. Changing the fill colour of your design
 
-- Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. This can be done by **selecting your object**, and **clicking on the white square or the gray square with a red X at the bottom of the screen.** 
-- It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box.
+- Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. <img src="images/act3/16.final.png" style="float:right;width:200px;" alt="">  This can be done by **selecting your object**, and **clicking on the white square or the gray square with a red X at the bottom of the screen.** 
+- It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box. <img src="images/act3/17.final_cut.png" style="float:right;width:200px;" alt="">  
 
 Congratulations, your design is now ready to be laser cut and used as a stencil!
