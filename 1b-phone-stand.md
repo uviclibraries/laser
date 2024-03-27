@@ -4,7 +4,7 @@ title: 1b - Interlocking Phone Stand
 nav_order: 3
 parent: Intermediate Activities
 ---
-<img src="images/act4/01_complete_stand.png" style="float:right;width:300px;" alt="laser cut phone stand">
+<img src="images/act4/01_complete_stand.png" style="float:right;width:200px;" alt="laser cut phone stand">
 
 # Fusion 360 for Laser Cutting – Interlocking Phone Stand Activity 
 1. Launch Fusion 360 and get familiar with how to move around:
