@@ -39,9 +39,9 @@ parent: Intermediate Activities
   
 3. Extrude the pieces from your sketch:
 - Click on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act4/34extrude.png" style="width:25px;" alt="extrude icon">.
-- **Select** the interior faces of the 3 shapes that make up the back piece from your sketch. 
+- **Select** the interior faces of the 3 shapes that make up the back piece from your sketch. <img src="images/act4/08_rename.png" style="float:right;width:210px;" alt="rename component">
 - In the Extrude pop-up box, **enter 80mm as the distance**. **Change** the Operation to **New Component**. **Click OK**.<br> 
-<img src="images/act4/07_extrude1.png" style="width:450px;" alt="Extrude pop up box"><br> <img src="images/act4/08_rename.png" style="float:right;width:210px;" alt="rename component">
+<img src="images/act4/07_extrude1.png" style="width:450px;" alt="Extrude pop up box"><br> 
 - In the left browsing panel, you can see that a new component has been created. **Right click** on the title of the component and **choose “rename”. Rename** the component as “Back”. 
 - Try rotating the part to view it in 3D by holding down the shift key and the mouse wheel. 
 - Ensure the sketch of your phone stand is visible. If you do not see the outline of your back and leg pieces (in light blue), the sketch is not visible.  To make the sketch visible, **click on the eye icon** next to the folder named ‘Sketches’ on the left browsing panel. You should now see your sketch in light blue. <img src="images/act4/09_visible.png" style="width:125px;" alt="">
