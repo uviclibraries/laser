@@ -17,9 +17,10 @@ parent: Intermediate Activities
 2. Create the basic shape of the phone stand: 
 - Start a new sketch by clicking **Create Sketch** <img src="images/act4/32create_sketch.png" style="width:20px;" alt="Create sketch icon">. It will prompt you to select a plane. A good practice is to select the plane from which the object would be viewed in real life.
 - Select the **3-Point Rectangle tool**, this tool can be found under the create header, then under the rectangle option.<br>
-<img src="images/act4/02_3pointrec.png" style="width:400px;" alt="3 point rectangle button"><br>
+<img src="images/act4/02_3pointrec.png" style="width:450px;" alt="3 point rectangle button"><br>
 - Place the first corner at the **origin** at the middle of the screen. **Click** to place a second corner somewhere above and right of the origin, then **drag the rectangle upwards and 
- click to make your rectangle**. This will be the back of your phone stand. <img src="images/act4/02_give_dim.png" style="float:right;width:250px;" alt="">
+ click to make your rectangle**. This will be the back of your phone stand.
+ <img src="images/act4/02_give_dim.png" style="width:300px;" alt=back of phone stand"">
 - Click the **Esc key** to exit the 3-Point Rectangle tool.
 - Try moving the sides of the rectangle around by **selecting and dragging the blue edges of the rectangle**.
 - Select the **Sketch Dimension** tool <img src="images/act4/33dimension.png" style="width:25px;" alt="sketch dimension icon">.  **Click** on the short end of the rectangle, and enter **the thickness of your material to be laser cut** (in this case, 3mm). Move your mouse slightly above the line on the long side of the rectangle and click again. **Enter the height of your phone plus about 20mm** as the dimension (in this case, 160mm). 
