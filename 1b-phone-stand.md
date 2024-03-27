@@ -20,22 +20,22 @@ parent: Intermediate Activities
 <img src="images/act4/02_3pointrec.png" style="width:450px;" alt="3 point rectangle button"><br>
 - Place the first corner at the **origin** at the middle of the screen. **Click** to place a second corner somewhere above and right of the origin, then **drag the rectangle upwards and 
  click to make your rectangle**. This will be the back of your phone stand.
- <img src="images/act4/02_give_dim.png" style="width:300px;" alt=back of phone stand"">
 - Click the **Esc key** to exit the 3-Point Rectangle tool.
 - Try moving the sides of the rectangle around by **selecting and dragging the blue edges of the rectangle**.
 - Select the **Sketch Dimension** tool <img src="images/act4/33dimension.png" style="width:25px;" alt="sketch dimension icon">.  **Click** on the short end of the rectangle, and enter **the thickness of your material to be laser cut** (in this case, 3mm). Move your mouse slightly above the line on the long side of the rectangle and click again. **Enter the height of your phone plus about 20mm** as the dimension (in this case, 160mm). 
 - Click the **Esc key** to exit the Dimension tool.
-- **Repeat the steps to create a 3-Point Rectangle.** This time place the first corner on the red horizontal line in the center of the screen and to the right of your first rectangle. This will be the leg of your phone stand. <img src="images/act4/04_parts_and_interface.png" style="float:right;width:350px;" alt="">
+- **Repeat the steps to create a 3-Point Rectangle.** This time place the first corner on the red horizontal line in the center of the screen and to the right of your first rectangle. This will be the leg of your phone stand.<br>
+<img src="images/act4/04_parts_and_interface.png" style="width:450px;" alt="Parts and Interface">
 - Place the second corner above and right from the first corner. Then **drag the rectangle upwards and towards the left** until you reach the **green vertical line**.
-- Click the **Esc key** to exit the 3-Point Rectangle tool. <img src="images/act4/05_originpoint.png" style="float:right;width:350px;" alt="">
+- Click the **Esc key** to exit the 3-Point Rectangle tool.
+  <img src="images/act4/05_originpoint.png" style="width:450px;" alt="Origin Point">
 - Select the **Sketch Dimension tool** <img src="images/act4/33dimension.png" style="width:25px;" alt="sketch dimension icon">. **Click** on the short end of the rectangle, **enter the thickness of your material to be laser cut (in this case, 3mm)**. Move your mouse slightly above the line on the long side of the rectangle and **click again. Enter the 87 mm** as the dimension.
 - Still in the Dimension tool, **click** on the bottom long side of the sketch for your back piece, and then **click** on the top long side of your leg piece. This will show you the angle between the two sides. **Enter 90 as the dimension**.
 - **Click** on the top long side of the back piece, then **click** on the top corner of the leg piece (on the left of your shape), **make the dimension 30mm**.
 - **Click** on the top long side of the leg piece and then **click** on the origin point, **make the dimension 25mm**.
 - Click the **Esc key** to exit the Dimension tool.
 - Optional: **Click and drag up** the bottom right corner of your leg piece, so that the corner is sitting on the weight of the red line in the center of the screen. Doing this will allow you to see the silhouette of your phone stand in its final orientation. 
-- **Click Finish Sketch** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="finish sketch icon">.
-- Your sketch should look like the image on the right. <img src="images/act4/06_final_sketch.png" style="width:300px;" alt="">
+- **Click Finish Sketch** <img src="images/act4/36finish_sketch.png" style="width:60px;" alt="finish sketch icon">. Your sketch should look like the image on the right. <img src="images/act4/06_final_sketch.png" style="width:300px;" alt="Final Sketch">
   
 3. Extrude the pieces from your sketch:
 - Click on the **SOLID** tab at the top of the screen. Click on the **Extrude** feature <img src="images/act4/34extrude.png" style="width:25px;" alt="extrude icon">.
