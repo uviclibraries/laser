@@ -10,7 +10,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. _NOTE: As of May 2024 the latest version of Inkscape does not fully support MacOS 13. From the developers: "On Ventura, Inkscape is unresponsive to certain mouse events (keyboard still works). We are working on the necessary updates." The developers are working on a fix to the software._
 
-2. Get familiar with how to move around
+2. Get familiar with how to move around:
  - Open Inkscape
  - Left-click is to select
  - Mouse scroll wheel moves the page up and down
@@ -18,7 +18,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
     
-3. Create the outline of the keychain
+3. Create the outline of the keychain:
  - Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
  - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this: <br> <img src="images/act2/act2-03.png" style="width:400px;" alt="menu">
  - Make sure the units are in **mm**.
@@ -37,7 +37,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Click over to the **Stroke style** tab. Change the Width to 0.1 mm. This is to ensure the line is thin enough to show up as a vector line in the laser software. Sometimes if lines are too thick then they’re interpreted as raster objects.
  - Click somewhere on the canvas to unselect the objects. Move the circle to the top left corner of the rectangle. The circle will be the hole for the keychain, so ensure it’s not too close to the edge, or else the small amount of material will be fragile. <br> <img src="images/act2/act2-12.png" style="width:200px; float:right;" alt="objects">
 
-4. Add some text 
+4. Add some text:
  - Click on the **Create and Edit Text** <img src="images/act2/act2-10.png" style="width:20px;" alt="objects"> icon. 
  - Click somewhere on the canvas and write whatever you want to engrave on the keychain. 
  - Select the text and modify it how you please by using the text editing options at the top of the screen.<br>
@@ -45,15 +45,15 @@ If you and your group have any questions or get stuck as you work through this i
  - In the Fill and Stroke tool, ensure there is no stroke and the fill is black.
  - Use the Select and transform <img src="images/act2/act2-05.png" style="width:20px;" alt="square">  tool to move the text inside the rectangle. You can also rotate and scale the text how you please. <img src="images/act2/act2-14.png" style="width:200px; float:right;" alt="objects">
 
-5. Convert text to a path
+5. Convert text to a path:
    - Depending on the fonts you use, the laser cutter may not be able to read and engrave the text correctly unless it is converted to a path.  
    - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C).
 
-6. Add other shapes 
+6. Add other shapes:
  - If you want, you can add more shapes using rectangle, circle, or polygon <img src="images/act2/act2-13.png" style="width:20px;" alt="objects"> tools on the left side of the screen. 
  - Decide which shapes you want engraved, and which to be cut out. Follow the same Fill and Stroke steps as the rectangle if they are cut. Follow the same Fill and Stroke steps as the text if they are engraved.
 
-7. Save your file
+7. Save your file:
  - Click **File**, then **Save As…** to save your file. Inkscape’s native file format is **.svg** which is suitable for laser cutting. 
 
 ### Congratulations - You've designed a keychain for laser cutting!
