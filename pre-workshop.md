@@ -9,9 +9,10 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 **Download and Install Software**<br>
 - Download and Install [Inkscape here](https://inkscape.org/release/){:target="_blank"}
 
-**Watch pre-class Videos**<br>
+**Reading**<br>
 - [Laser Cutting Basics](https://www.instructables.com/id/Laser-Cutting-Basics/){:target="_blank"} (10 min)
 
+**Watch pre-class Videos**<br>
 - [How does Laser Cutting Work - Basics Explained](https://www.youtube.com/watch?v=SIjUVCho_xU&ab_channel=TrotecLaser){:target="_blank"} (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIjUVCho_xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
