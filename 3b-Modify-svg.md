@@ -51,7 +51,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Use the Select and transform <img src="images/act2/act2-05.png" style="width:20px;" alt="square"> tool to move the text. You can also rotate and scale the text how you please.  Clicking on an object will swap back and forth between scaling and rotating handles.
 
 8. Convert text to a path
-   - Depending on the fonts you use, the laser cutter may not be able to read and engrave the text correctly unless it is converted to a path.  
+   - Depending on the fonts you use, the laser cutter may not be able to read and engrave the text correctly unless it is converted to a path. For example, if you have a custom Adobe font on your laptop, but the computer connected to the laser cutter does not have the font, then it will substitute a similar font for the Adobe font. The text will look different and will likely be larger or smaller than the Adobe font text. To make sure your text looks the way you expect it to you need to convert the font into a path that the computer connected to the laser cutter can use.  
    - Select your text then from the top menu select **Path > Object to Path** (or Shift+Ctrl+C).
 
 9. Add a hole
