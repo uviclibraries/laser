@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-# Making a Stencil for Laser Cutting
+# Make a Stencil with Laser Cutting
 
 <img src="images/act3/17.final_cut.jpg" style="margin-left:20px; float:right;width:200px;" alt="stencil of a Canadian Goose">
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
