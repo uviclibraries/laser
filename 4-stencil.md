@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4 - Making a Stencil
+title: 4 - Make a Stencil using Inkscape
 nav_order: 6
 parent: Workshop Activities
 ---
