@@ -23,14 +23,17 @@ In this activity, you will learn how to identify what parts of your image or log
 Alternatively, it might be possible to modify your design to make it stencil-ready by using the stencil font or simplifying your design. 
 
 Ex 1: 
+
 <img src="images/act3/01.logo.png" style="float;width:200px;" alt="">  
 <img src="images/act3/02.logo_cut.jpg" style="float;width:200px;" alt="">   
 
 Ex 2: 
-<img src="images/act3/03.logo2.png" style="float:right;width:200px;" alt="">  
-<img src="images/act3/04.logo2_cut.jpg" style="float:right;width:200px;" alt=""> 
+
+<img src="images/act3/03.logo2.png" style="float;width:200px;" alt="">  
+<img src="images/act3/04.logo2_cut.jpg" style="float;width:200px;" alt=""> 
 
 Ex 3: 
+
 <img src="images/act3/05.logo3.png" style="float:right;width:200px;" alt="">  
 <img src="images/act3/06.logo3_cut.png" style="float:right;width:200px;" alt="">  
 
