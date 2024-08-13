@@ -55,7 +55,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 2. Creating a base.
 
 - First, create a new 3D printing project. 
-- Next, **drag and drop a cube** from the basic shapes onto the work plane, and **resize the shape** to be a bit larger than the desired size of your stencil. Make sure to make the **height of the cube 2 mm.** This will serve as the base for your stencil.
+- Next, **drag and drop a cube** from the basic shapes onto the work plane, <img src="images/act1/01.cube.png" style="float:right;width:200px;" alt="">  and **resize the shape** to be a bit larger than the desired size of your stencil. Make sure to make the **height of the cube 2 mm.** This will serve as the base for your stencil.
 
 3. Importing your design.
 
