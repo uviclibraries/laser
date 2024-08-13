@@ -75,7 +75,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 - Your design is now ready to be exported as an .svg and imported to Inkscape. **Click on Export**, and a pop=up box will appear, **click on .svg** and save your design onto your device. <img src="images/act1/09.export.png" style="float:right;width:200px;" alt="">
 - **Open Inkscape**, you can now import your design by **clicking on files** and **import**. Find the file you just saved. A box may pop-up asking about import settings. The default settings are fine, **click OK**.
-- The page will look blank, however, do not worry. <img src="images/act1/11.import.png" style="float:right;width:200px;" alt="">
+- The page will look blank, however, do not worry. <img src="images/act1/11.import.png" style="float:right;width:100px;" alt="">
 
 6. Adjust your design to be ready for laser cutting
 
