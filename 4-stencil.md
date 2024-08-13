@@ -44,6 +44,8 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 **First method: Using TinkerCAD and Inkscape**
 
+Go to the TinkerCAD website [https://www.tinkercad.com/]((https://www.tinkercad.com/dashboard){:target="_blank"} and login, if you don't have an account, go ahead and create a free account. 
+
 1. Find an image you would like to turn into a stencil
 
 - You can use the Ostrich image example, <img src="images/act1/14.ostrich.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
