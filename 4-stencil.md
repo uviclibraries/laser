@@ -71,15 +71,15 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 <img src="images/act1/08.final.png" style="float;width:200px;" alt="">
 
-5. Exporting your file from TinkerCAD to Inkscape
+5. Exporting your file from TinkerCAD to Inkscape  <img src="images/act1/09.export.png" style="float:right;width:200px;" alt="">
 
-- Your design is now ready to be exported as an .svg and imported to Inkscape. **Click on Export**, and a pop=up box will appear, **click on .svg** and save your design onto your device. <img src="images/act1/09.export.png" style="float:right;width:100px;" alt="">
+- Your design is now ready to be exported as an .svg and imported to Inkscape. **Click on Export**, and a pop=up box will appear, **click on .svg** and save your design onto your device.
 - **Open Inkscape**, you can now import your design by **clicking on files** and **import**. Find the file you just saved. A box may pop-up asking about import settings. The default settings are fine, **click OK**.
-- The page will look blank, however, do not worry. <img src="images/act1/11.import.png" style="float:right;width:200px;" alt="">
+- The page will look blank, however, do not worry. <img src="images/act1/11.import.png" style="float:right;width:250px;" alt="">
 
 6. Adjust your design to be ready for laser cutting
 
-- To make your design visible, **click on the blank works space** until you select an item. This is your design imported from TinkerCAD. <img src="images/act1/12.select.png" style="float:right;width:200px;" alt="">
+- To make your design visible, **click on the blank works space** until you select an item. This is your design imported from TinkerCAD. <img src="images/act1/12.select.png" style="float:right;width:150px;" alt="">
 - Go under **Fill and Stroke** and **increase the width of the stroke to be at least 1mm.** This will make your design visible.
 - **Save** your design. <img src="images/act1/13.finalinkscape.png" style="float:right;width:200px;" alt="">
 
