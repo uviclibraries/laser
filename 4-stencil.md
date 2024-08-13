@@ -83,7 +83,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 - Go under **Fill and Stroke** and **increase the width of the stroke to be at least 1mm.** This will make your design visible.
 - **Save** your design.
 
-<img src="images/act1/13.finalinkscape.png" style="float;width:200px;" alt="">
+<img src="images/act1/13.finalinkscape.png" style="float;width:250px;" alt="">
 
 _Congratulations, your design is now ready to be laser cut and used as a stencil!_
 
