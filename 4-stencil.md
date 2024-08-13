@@ -60,7 +60,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 3. Importing your design.
 
 - It's now time to import your .svg file into Inkscape. **Click on Import** <img src="images/act1/03.import.png" style="float:right;width:200px;" alt=""> and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. <img src="images/act1/05.hole.png" style="float;width:200px;" alt="">
-- To create the stencil, **group both shapes together**, using the Group botton. <img src="images/act1/06.group.png" style="float;width:200px;" alt="">
+- To create the stencil, **group both shapes together**, using the Group botton. <img src="images/act1/06.group.png" style="float:right;width:200px;" alt="">
 
 4. Adding bridges 
 
