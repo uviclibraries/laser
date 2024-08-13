@@ -71,7 +71,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 <img src="images/act1/08.final.png" style="float;width:200px;" alt="">
 
-5. Exporting your file from TinkerCAD to Inkscape  <img src="images/act1/09.export.png" style="float:right;width:200px;" alt="">
+5. Exporting your file from TinkerCAD to Inkscape  <img src="images/act1/09.export.png" style="float:right;width:175px;" alt="">
 
 - Your design is now ready to be exported as an .svg and imported to Inkscape. **Click on Export**, and a pop=up box will appear, **click on .svg** and save your design onto your device.
 - **Open Inkscape**, you can now import your design by **clicking on files** and **import**. Find the file you just saved. A box may pop-up asking about import settings. The default settings are fine, **click OK**.
