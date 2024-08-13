@@ -69,7 +69,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 - **Add as many connectors as needed** to ensure the structural integrity of your design. Stencils laser cut from flimsy material will require more bridges than those made from materials with more sturdiness.
 - **Group your bridges to the main shape**, this is done by **selecting all the pieces and clicking on the group button.**
 
-<img src="images/act1/08.final.png" style="float:right;width:200px;" alt="">
+<img src="images/act1/08.final.png" style="float;width:200px;" alt="">
 
 5. Exporting your file from TinkerCAD to Inkscape
 
