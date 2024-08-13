@@ -46,7 +46,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 1. Find an image you would like to turn into a stencil
 
-- You can use the Ostrich image example, <img src="images/act1/13.ostrich.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
+- You can use the Ostrich image example, <img src="images/act1/14.ostrich.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
    - Vectorstock: full colour clip art
    - The noun project: free icon clip art
    - Biorender: biology clipart
