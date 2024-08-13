@@ -36,13 +36,58 @@ Ex 3:
 
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
 
+_This workshop will teach you how to make a stencil using 2 methods, the first uses TinkerCAD and Inkscape and involves more basic functions, the second uses only Inkscape, but might be better for those with more experience with Vector software or who are interested in gaining such experience._
+
+**First method: Using TinkerCAD and Inkscape**
+
+1. Find an image you would like to turn into a stencil
+
+- You can use the Ostrich image example, <img src="images/act3/07.goose.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
+   - Vectorstock: full colour clip art
+   - The noun project: free icon clip art
+   - Biorender: biology clipart
+- If your image is in the svg. format, it can be imported into TinkerCAD as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design **using Inkscape**. 
+
+2. Creating a base.
+
+- First, create a new 3D printing project. TinkerCAD automatically gives silly names to files, you can rename it **__________________**
+- Next, **drag and drop a cube** from the basic shapes onto the work plane, and **resize the shape** to be a bit larger than the desired size of your stencil. Make sure to make the **height of the cube 2 mm.** This will serve as the base for your stencil.
+
+3. Importing your design.
+
+- It's now time to import your .svg file into Inkscape. **Click on Import** and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. 
+- To create the stencil, **group both shapes together**, using the Group botton.
+
+4. Adding bridges 
+
+- Notice if any details of your design are floating and need to be attached with bridges to the base. In the case of the ostrich, this includes the wing and tail details, as well as the neck of the bird.
+- To add bridges, **insert a shape on the work plane** by drag and drop. **Modify the dimensions** of the new shape to create a connector between the base and the element that is floating. Make sure to make the **height of the bridges the same height as the base (2mm).**
+- **Add as many connectors as needed** to ensure the structural integrity of your design. Stencils laser cut from flimsy material will require more bridges than those made from materials with more sturdiness.
+- **Group your bridges to the main shape**, this is done by **selecting all the pieces and clicking on the group button.**
+
+5. Exporting your file from TinkerCAD to Inkscape
+
+- Your design is now ready to be exported as an .svg and imported to Inkscape. **Click on Export**, and a pop=up box will appear, **click on .svg** and save your design onto your device.
+- **Open Inkscape**, you can now import your design by **clicking on files** and **import**. Find the file you just saved. A box may pop-up asking about import settings. The default settings are fine, **click OK**.
+- The page will look blank, however, do not worry.
+
+6. Adjust your design to be ready for laser cutting
+
+- To make your design visible, **click on the blank works space** until you select an item. This is your design imported from TinkerCAD.
+- Go under **Fill and Stroke** and **increase the width of the stroke to be at least 1mm.** This will make your design visible.
+- **Save** your design. 
+
+_Congratulations, your design is now ready to be laser cut and used as a stencil!_
+
+**Second method: Using Inkscape only**
+
 1. Find an image you would like to turn into a stencil
    
 - You can use the Canadian goose image example, <img src="images/act3/07.goose.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
    - Vectorstock: full colour clip art
    - The noun project: free icon clip art
    - Biorender: biology clipart
-- If your image is in the svg. format, it can be imported or copied to Inkscape as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design. 
+- If your image is in the .svg format, it can be imported or copied to Inkscape as is. If your image is a PNG or JPEG, follow the instructions in the Workshop Activity 2 to learn how to vectorize your design. 
 - **Click File**, then **click on Import**
 - Find the file that you downloaded and **click Open**.
 - A box may pop-up asking about import settings. The default settings are fine, **click OK**.
@@ -84,6 +129,6 @@ It can sometimes be hard to visualize what parts of your design will consist of 
 - Changing the colour of your design to a transparent or white colour ensures that the laser cutter knows to only apply cuts to your project. <img src="images/act3/16.final.png" style="float:right;width:200px;" alt="">  This can be done by **selecting your object**, and **clicking on the white square or the gray square with a red X at the bottom of the screen.** 
 - It can also be helpful to let us know that you only want cuts to be applied to this project in the Drawing Description box. <img src="images/act3/17.final_cut.png" style="float:right;width:200px;" alt="">  
 
-**Congratulations, your design is now ready to be laser cut and used as a stencil!**
+_Congratulations, your design is now ready to be laser cut and used as a stencil!_
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
