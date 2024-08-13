@@ -64,8 +64,8 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 4. Adding bridges 
 
-- Notice if any details of your design are floating and need to be attached with bridges to the base. In the case of the ostrich, this includes the wing and tail details, as well as the neck of the bird. 
-- To add bridges, **insert a shape on the work plane** by drag and drop. **Modify the dimensions** of the new shape to create a connector between the base and the element that is floating. Make sure to make the **height of the bridges the same height as the base (2mm).** <img src="images/act1/07.bridge.png" style="float:right;width:200px;" alt="">
+- Notice if any details of your design are floating and need to be attached with bridges to the base. In the case of the ostrich, this includes the wing and tail details, as well as the neck of the bird. <img src="images/act1/07.bridge.png" style="float:right;width:200px;" alt="">
+- To add bridges, **insert a shape on the work plane** by drag and drop. **Modify the dimensions** of the new shape to create a connector between the base and the element that is floating. Make sure to make the **height of the bridges the same height as the base (2mm).** 
 - **Add as many connectors as needed** to ensure the structural integrity of your design. Stencils laser cut from flimsy material will require more bridges than those made from materials with more sturdiness.
 - **Group your bridges to the main shape**, this is done by **selecting all the pieces and clicking on the group button.**
 
