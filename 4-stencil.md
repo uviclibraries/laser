@@ -36,7 +36,12 @@ Ex 3:
 
 <img src="images/act3/05.logo3.png" style="float:right;width:200px;" alt="">  
 <img src="images/act3/06.logo3_cut.png" style="float:right;width:200px;" alt="">  
-__________________________________________________
+
+
+
+
+
+
 
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
 
