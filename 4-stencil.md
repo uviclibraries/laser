@@ -81,7 +81,9 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 - To make your design visible, **click on the blank works space** until you select an item. This is your design imported from TinkerCAD. <img src="images/act1/12.select.png" style="float:right;width:150px;" alt="">
 - Go under **Fill and Stroke** and **increase the width of the stroke to be at least 1mm.** This will make your design visible.
-- **Save** your design. <img src="images/act1/13.finalinkscape.png" style="float;width:200px;" alt="">
+- **Save** your design.
+
+<img src="images/act1/13.finalinkscape.png" style="float;width:200px;" alt="">
 
 _Congratulations, your design is now ready to be laser cut and used as a stencil!_
 
