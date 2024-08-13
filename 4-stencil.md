@@ -59,7 +59,7 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 
 3. Importing your design.
 
-- It's now time to import your .svg file into Inkscape. **Click on Import** <img src="images/act1/03.import.png" style="float:right;width:200px;" alt=""> and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. <img src="images/act1/05.hole.png" style="float:right;width:200px;" alt="">
+- It's now time to import your .svg file into Inkscape. **Click on Import** <img src="images/act1/03.import.png" style="float:right;width:200px;" alt=""> and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. <img src="images/act1/05.hole.png" style="float:right;width:125px;" alt="">
 - To create the stencil, **group both shapes together**, using the Group botton. <img src="images/act1/06.group.png" style="float:right;width:200px;" alt="">
 
 4. Adding bridges 
@@ -67,7 +67,9 @@ _This workshop will teach you how to make a stencil using 2 methods, the first u
 - Notice if any details of your design are floating and need to be attached with bridges to the base. In the case of the ostrich, this includes the wing and tail details, as well as the neck of the bird. 
 - To add bridges, **insert a shape on the work plane** by drag and drop. **Modify the dimensions** of the new shape to create a connector between the base and the element that is floating. Make sure to make the **height of the bridges the same height as the base (2mm).** <img src="images/act1/07.bridge.png" style="float:right;width:200px;" alt="">
 - **Add as many connectors as needed** to ensure the structural integrity of your design. Stencils laser cut from flimsy material will require more bridges than those made from materials with more sturdiness.
-- **Group your bridges to the main shape**, this is done by **selecting all the pieces and clicking on the group button.** <img src="images/act1/08.final.png" style="float:right;width:200px;" alt="">
+- **Group your bridges to the main shape**, this is done by **selecting all the pieces and clicking on the group button.**
+
+<img src="images/act1/08.final.png" style="float:right;width:200px;" alt="">
 
 5. Exporting your file from TinkerCAD to Inkscape
 
