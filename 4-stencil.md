@@ -10,6 +10,7 @@ parent: Workshop Activities
 <img src="images/act3/17.final_cut.jpg" style="margin-left:20px; float:right;width:200px;" alt="stencil of a Canadian Goose">
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
+<img src="images/act2/tinkercad-logo.png" style="margin-left:20px; width:80px;" alt="tinkercad logo">
 <img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
 
 - If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer.
