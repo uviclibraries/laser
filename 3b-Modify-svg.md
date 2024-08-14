@@ -97,4 +97,4 @@ If you and your group have any questions or get stuck as you work through this i
 
 ### Congratulations - you've edited your box in Inkscape!
 
-[NEXT STEP: Making a Stencil](4-stencil.html){: .btn .btn-blue }
+[NEXT STEP: Making a Character](4a.fun_person.html){: .btn .btn-blue }
