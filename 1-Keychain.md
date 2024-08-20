@@ -11,14 +11,14 @@ If you and your group have any questions or get stuck as you work through this i
 1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead.
 > _NOTE: As of May 2024 the latest version of Inkscape does not fully support MacOS 13, but is usable for the workshop activities that follow. From the developers: "On Ventura, Inkscape is unresponsive to certain mouse events (keyboard still works). We are working on the necessary updates." The developers are working on a fix to the software._
 
-2. Get familiar with how to move around: <img src="images/act1/15.icons_dark.png" style="width:20px;float;" alt="icons in dark mode">
+2. Get familiar with how to move around: 
  - Open Inkscape
  - Left-click is to select
  - Mouse scroll wheel moves the page up and down
  - Shift + mouse scroll wheel moves the page side to side
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
- - Look and hover over the some of the icons on the side of your workspace (note that these icons look different on light and dark mode)
+ - Look and hover over the some of the icons on the side of your workspace (note that these icons look different on light and dark mode) <img src="images/act1/15.icons_dark.png" style="width:20px;float;" alt="icons in dark mode">
     
 3. Create the outline of the keychain:
  - Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
