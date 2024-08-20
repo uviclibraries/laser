@@ -7,8 +7,8 @@ parent: Workshop Activities
 # Workshop Activities
 <img src="images/act2/inkscape-logo.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape logo">
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-<img src="images/act1/15.icons_dark.png" style="width:20px;float: right;" alt="icons in dark mode">
-1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead.
+
+1. If you haven’t already, go to [https://inkscape.org/](https://inkscape.org/release/inkscape-1.2.2/){:target="_blank"} and download the appropriate version of Inkscape for your computer. If you have Adobe Illustrator or a similar program on your computer and you are familiar with how to use it, you are welcome to follow along using it instead. <img src="images/act1/15.icons_dark.png" style="width:20px;float: right;" alt="icons in dark mode">
 > _NOTE: As of May 2024 the latest version of Inkscape does not fully support MacOS 13, but is usable for the workshop activities that follow. From the developers: "On Ventura, Inkscape is unresponsive to certain mouse events (keyboard still works). We are working on the necessary updates." The developers are working on a fix to the software._
 
 2. Get familiar with how to move around: 
