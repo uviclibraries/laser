@@ -14,13 +14,13 @@ If you and your group have any questions or get stuck as you work through this i
 2. Get familiar with how to move around: 
  - Open Inkscape
  - Left-click is to select
- - Mouse scroll wheel moves the page up and down
+ - Mouse scroll wheel moves the page up and down <img src="images/act1/15.icons_dark.png" style="width:20px;float: right;" alt="icons in dark mode">
  - Shift + mouse scroll wheel moves the page side to side
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
  - Look and hover over the some of the icons on the side of your workspace (note that these icons look different on light and dark mode) 
     
-3. Create the outline of the keychain: <img src="images/act1/15.icons_dark.png" style="width:20px;float: right;" alt="icons in dark mode">
+3. Create the outline of the keychain: 
  - Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
  - Click and drag somewhere on the canvas to create a rectangle. In the top left corner there’s a toolbar that looks like this: <br> <img src="images/act2/act2-03.png" style="width:400px;" alt="menu">
  - Make sure the units are in **mm**.
