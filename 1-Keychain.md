@@ -18,7 +18,7 @@ If you and your group have any questions or get stuck as you work through this i
  - Shift + mouse scroll wheel moves the page side to side
  - Ctrl + mouse scroll wheel zooms in and out
  - Holding down the mouse scroll wheel drags the page around
- - Look and hover over the some of the icons on the side of your workspace (note that these icons look different on light and dark mode) <img src="images/act1/15.icons_dark.png" style="width:20px;float;" alt="icons in dark mode">
+ - Look and hover over the some of the icons on the side of your workspace (note that these icons look different on light and dark mode) <img src="images/act1/15.icons_dark.png" style="width:20px;float; right;" alt="icons in dark mode">
     
 3. Create the outline of the keychain:
  - Click on the **create rectangles and squares**<img src="images/act2/act2-02.png" style="width:20px;" alt="square"> icon from the left side toolbar  
