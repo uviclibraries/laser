@@ -25,18 +25,18 @@ Alternatively, it might be possible to modify your design to make it stencil-rea
 
 Ex 1: 
 
-<img src="images/act3/01.logo.png" style="float;width:200px;" alt="">  
-<img src="images/act3/02.logo_cut.jpg" style="float;width:200px;" alt="">   
+<img src="images/act3/01.logo.png" style="float;width:200px;" alt="UVic robotics club logo">  
+<img src="images/act3/02.logo_cut.jpg" style="float;width:200px;" alt="cut out of lasered uvic robotics club logo">   
 
 Ex 2: 
 
-<img src="images/act3/03.logo2.png" style="float;width:200px;" alt="">  
-<img src="images/act3/04.logo2_cut.jpg" style="float;width:200px;" alt=""> 
+<img src="images/act3/03.logo2.png" style="float;width:200px;" alt="modified uvic robotics club logo view from inkscape">  
+<img src="images/act3/04.logo2_cut.jpg" style="float;width:200px;" alt="modified uvic robotics club logo laser cut stencil"> 
 
 Ex 3: 
 
-<img src="images/act3/05.logo3.png" style="float;width:200px;" alt="">  
-<img src="images/act3/06.logo3_cut.png" style="float;width:200px;" alt="">  
+<img src="images/act3/05.logo3.png" style="float;width:200px;" alt="modified uvic robotics club logo optimized for stencil, view in inkscape">  
+<img src="images/act3/06.logo3_cut.png" style="float;width:200px;" alt="modified uvic club robotics club logo optimized for stencil, laser cut stencil">  
 
 
 In the first example, the logo is unaltered, leading to the robotics text being lost after laser cutting (since there were no bridges connecting these parts to the main material). In the second image, the design is simplified and text uses the stencil font, ensuring that the most crucial information remains part of the final design.  In the third, bridges were created to maintain all elements of the original logo.
@@ -49,7 +49,7 @@ Go to the TinkerCAD website [https://www.tinkercad.com/](https://www.tinkercad.c
 
 1. Find an image you would like to turn into a stencil
 
-- You can use the Ostrich image example, <img src="images/act1/14.ostrich.png" style="float:right;width:200px;" alt="">   or choose your own line art photo from one of the websites below: 
+- You can use the Ostrich image example, <img src="images/act1/14.ostrich.png" style="float:right;width:200px;" alt="icon of ostrich">   or choose your own line art photo from one of the websites below: 
    - Vectorstock: full colour clip art
    - The noun project: free icon clip art
    - Biorender: biology clipart
@@ -58,11 +58,11 @@ Go to the TinkerCAD website [https://www.tinkercad.com/](https://www.tinkercad.c
 2. Creating a base.
 
 - First, create a new 3D printing project. 
-- Next, **drag and drop a cube** from the basic shapes onto the work plane, <img src="images/act1/01.cube.png" style="float:right;width:400px;" alt="">  and **resize the shape** to be a bit larger than the desired size of your stencil. Make sure to make the **height of the cube 2 mm.** This will serve as the base for your stencil. <img src="images/act1/01.base.png" style="float:right;width:200px;" alt="">
+- Next, **drag and drop a cube** from the basic shapes onto the work plane, <img src="images/act1/01.cube.png" style="float:right;width:400px;" alt="insert cube in tinkercad">  and **resize the shape** to be a bit larger than the desired size of your stencil. Make sure to make the **height of the cube 2 mm.** This will serve as the base for your stencil. <img src="images/act1/01.base.png" style="float:right;width:200px;" alt="">
 
 3. Importing your design.
 
-- It's now time to import your .svg file into Inkscape. **Click on Import** <img src="images/act1/03.import.png" style="float:right;width:200px;" alt=""> and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. <img src="images/act1/05.hole.png" style="float;width:240px;" alt=""> <img src="images/act1/06.group.png" style="float:right;width:175px;" alt="">
+- It's now time to import your .svg file into Inkscape. **Click on Import** <img src="images/act1/03.import.png" style="float:right;width:200px;" alt="ostrich as a hole on top of a thin large cube"> and find the .svg file you want to make into a stencil. Your image will appear and can now be resized to the dimensions you want. Place the image over your base, and change the shape to a **hole**. <img src="images/act1/05.hole.png" style="float;width:240px;" alt=""> <img src="images/act1/06.group.png" style="float:right;width:175px;" alt="">
 - To create the stencil, **group both shapes together**, using the Group botton. 
 
 4. Adding bridges 
