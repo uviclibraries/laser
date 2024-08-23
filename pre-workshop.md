@@ -19,6 +19,10 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 - [Vector vs Raster Graphics](https://www.youtube.com/watch?v=p2thSkOa_Xg&ab_channel=BuddyMedia){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2thSkOa_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Laser Cutter Safety Tools (4 min)<br>
+<iframe src="https://app.Lumi.education/api/v1/run/CueT33/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 - OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHgqBYTj67U&ab_channel=WayofWood){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
