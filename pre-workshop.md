@@ -20,7 +20,7 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p2thSkOa_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Laser Cutter Safety Equipment Game Map](https://app.Lumi.education/run/ZMFQSz){:target="_blank"} (4 min)<br>
-<iframe src="https://app.Lumi.education/api/v1/run/ZMFQSz/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<iframe src="https://app.Lumi.education/api/v1/run/ZMFQSz/embed" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 - OPTIONAL: [Laser Cutter Safety Equipment VR Tour](https://app.Lumi.education/run/CueT33){:target="_blank"} (3 min)<br>
 <iframe src="https://app.Lumi.education/api/v1/run/CueT33/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
