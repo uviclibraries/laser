@@ -29,7 +29,7 @@ OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 FOR TESTING ONLY: [Therapeutic Communication & Mental Health Assessment](){:target="_blank"} (15 min)<br>
-<iframe src="https://h5p.org/h5p/embed/439819" width="560" height="545" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><br>
+<iframe src="https://h5p.org/h5p/embed/439819" width="560" height="400" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><br>
 If you would like more information about this learning object you can find it at the [Toronto Metropolitan University Open Learning website](https://www.torontomu.ca/open-learning/modules/therapeutic_communication/){:target="_blank"}.
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
