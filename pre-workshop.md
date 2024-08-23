@@ -24,7 +24,11 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 
 OPTIONAL: [Laser Cutter Safety Equipment VR Tour](https://app.Lumi.education/run/CueT33){:target="_blank"} (3 min)<br>
 <iframe src="https://app.Lumi.education/api/v1/run/CueT33/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
 OPTIONAL: [10 projects for the laser cutter](https://www.youtube.com/watch?v=vHgqBYTj67U&ab_channel=WayofWood){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHgqBYTj67U" title="10 projects for the laser cutter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+TESTING ONLY: [Therapeutic Communication & Mental Health Assessment](){:target="_blank"} (15 min)<br>
+<iframe src="https://h5p.org/h5p/embed/439819" width="560" height="545" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
