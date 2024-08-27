@@ -12,7 +12,8 @@ If you and your group have any questions or get stuck as you work through this i
 
 <img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
 
-Occasionally, you might find a model online that was created for a different material width than the material you have available or want to use. <img src="images/act2/01.start.png" style="width:200px;float:right;" alt=""> In the example below, we will modify a file created for 6mm to 3mm.  
+<img src="images/act2/01.start.png" style="width:200px;float:right;" alt="">
+Occasionally, you might find a model online that was created for a different material width than the material you have available or want to use. In the example below, we will modify a file created for 6mm to 3mm.  
 
 1. **Download & open** [this document for this exercise](Name_plate_6mm.svg){:target="_blank"}.  
 
