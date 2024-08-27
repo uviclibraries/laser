@@ -18,18 +18,17 @@ Occasionally, you might find a model online that was created for a different mat
 
 2. Select the objects on the page, you will notice that all the elements get selected together. However, in order to modify the file to adjust it for our material width, we need to have all elements separated.
    
-4. **Select your object** and under the Path menu, **click on Break Apart**
+3. **Select your object** and under the Path menu, **click on Break Apart**
+- This will create a dotted outline around each element of the design indicating that they can now be modified independently.
    
-6. This will create a dotted outline around each element of the design indicating that they can now be modified independently.
+4. **Click on the rectangle** in the center of the base. Change the height (H) of the rectangle to 3mm. The rectangle can now be moved to be in the center of the base.
    
-8. **Click on the rectangle** in the center of the base. Change the height (H) of the rectangle to 3mm. The rectangle can now be moved to be in the center of the base.
-   
-10. **Insert a rectangle**, make the dimensions: 
+5. **Insert a rectangle**, make the dimensions: 
 - W: 24mm
 - H: 3mm
   
-7. This will be a placeholder to adjust the other element of the nameplate. Overlap this rectangle over the base of the tab of the nameplate.
+6. This will be a placeholder to adjust the other element of the nameplate. Overlap this rectangle over the base of the tab of the nameplate.
    
-9. **Click on the nodes tool** and **select the nodes at the bottom of the tab**. These nodes will turn dark blue, indicating that they are selected. Drag the nodes to match the placeholder rectangle. This ensures that the tab will fit correctly with the base. 
+7. **Click on the nodes tool** and **select the nodes at the bottom of the tab**. These nodes will turn dark blue, indicating that they are selected. Drag the nodes to match the placeholder rectangle. This ensures that the tab will fit correctly with the base. 
 
 _Congratulations, your project is now ready to be laser cut on a 3mm material!_
