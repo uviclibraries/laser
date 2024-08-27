@@ -15,7 +15,7 @@ If you and your group have any questions or get stuck as you work through this i
 <img src="images/act2/01.start.png" style="width:200px;float:right;" alt="">
 Occasionally, you might find a model online that was created for a different material width than the material you have available or want to use. In the example below, we will modify a file created for 6mm to 3mm.  
 
-1. **Download & open** [this document for this exercise](Name_plate_6mm.svg){:target="_blank"}.  
+1. **Download & open** [this document for this exercise](docs/Name_plate_6mm.svg){:target="_blank"}.  
 
 <img src="images/act2/02.breakappart.png" style="width:250px;float:right;" alt="">
 2. Select the objects on the page, you will notice that all the elements get selected together. However, in order to modify the file to adjust it for our material width, we need to have all elements separated. 
