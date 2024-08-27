@@ -12,4 +12,4 @@ If you and your group have any questions or get stuck as you work through this i
 
 <img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
 
-**Download & open** [this document for this exercise](docs/dsc-dashboard.xlsx){:target="_blank"}.
+**Download & open** [this document for this exercise](Name_plate_6mm.svg){:target="_blank"}.
