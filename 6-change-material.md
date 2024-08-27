@@ -20,6 +20,7 @@ Occasionally, you might find a model online that was created for a different mat
    
 3. **Select your object** and under the Path menu, **click on Break Apart**
 - This will create a dotted outline around each element of the design indicating that they can now be modified independently. <img src="images/act2/03.appart.png" style="width:200px;float:right;" alt="">
+<img src="images/act2/03b.6mm.png" style="width:200px;float:right;" alt="">
 
 <img src="images/act2/04.moving_slot.png" style="width:200px;float:right;" alt="">
    
