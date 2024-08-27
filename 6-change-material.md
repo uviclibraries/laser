@@ -11,3 +11,5 @@ parent: Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 <img src="images/inkscape-logo.jpg" style="margin-left:20px; width:80px;" alt="inkscape logo">
+
+**Download & open** [this document for this exercise](docs/dsc-dashboard.xlsx){:target="_blank"}.
