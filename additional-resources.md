@@ -8,6 +8,8 @@ nav_order: 10
 ## Laser Cutting Resources
 - [Boxes.py](https://www.festi.info/boxes.py/?language=en){:target="_blank"}
 - [Thingiverse: laser cut designs](https://www.thingiverse.com/search?q=laser+cut&page=1&type=things&sort=relevant){:target="_blank"}
+- [3axis.co: laser cut designs](https://3axis.co/laser-cut/){:target="_blank"}
+- [Ponko: laser cut designs](https://www.ponoko.com/free-laser-cutting-files-templates/page/1){:target="_blank"}
 - [Making contour maps](https://contours.axismaps.com/#12/27.9885/86.9233){:target="_blank"}
 - [Make a bathymetric/topographic map](https://www.instructables.com/Make-laser-cut-bathymetric-maps/){:target="_blank"}
 - [Convert .dxf to .svg with Inkscape](https://support.shapertools.com/hc/en-us/articles/360052118213-Convert-DXF-to-SVG-in-Inkscape){:target="_blank"}
