@@ -31,7 +31,8 @@ nav_order: 10
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/){:target="_blank"}, for their assistance with the Jekyll template for GitHub Pages.
-- Cheyenne Heenan - Activity 1, 2, 3a
-- Victoria Hartman - activity 3b and introduction slides
+- Cheyenne Heenan - Activities 1, 2, 3a
+- Victoria Hartman - Activity 3b and introduction slides
+- Cameron Chevrier - Introduction Activities 4, 5, 6, and Intermediate Activities 1a, 1b, 1c
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
