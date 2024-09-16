@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 1c - Adding Text
-nav_order: 4
+nav_order: 
 parent: Intermediate Activities
 ---
-# Adding text (or designs) to parts in Fusion 360
+# Adding text (or designs) to parts in Fusion 360 **I suggest retiring this page as the stencil activity covers something quite similar but in a way less complex manner**
 
 You will need to start with a flat piece to add text or other designs to your laser-cut parts in Fusion 360. If you do not have one, start by doing activity 1b to create an interlocking phone stand. 
 
