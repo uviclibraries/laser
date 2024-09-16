@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1c - Adding Text
-nav_order: 
+nav_order: retired
 parent: Intermediate Activities
 ---
 # Adding text (or designs) to parts in Fusion 360 **I suggest retiring this page as the stencil activity covers something quite similar but in a way less complex manner**
