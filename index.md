@@ -15,7 +15,7 @@ nav_order: 1
 
 **Laser cutting** is a process for cutting materials to create 2D and 3D designs.  From a digital file, laser cutters use computer controlled high powered lasers to engrave or cut wood, metal, paper and more with high precision.
 
-Laser cutting is a fast and accurate way to engrave objects, make boxes, and more!
+Laser cutting is a fast and accurate way to engrave objects, make boxes, design stencils, and more!
 
 ## What tools do we use?
 
