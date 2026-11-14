@@ -9,9 +9,9 @@ nav_order: 9
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed relevant skills.
 
-DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:target="_blank"} and have the recipients email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a [link to the learning objectives for the workshop](https://badgr.com/issuers/5b86d7bfc94948208c1c181b/badges/63e2a080b15b7f4708d25f8b/overview){:target="_blank"} so that employers or anyone who sees the badge can determine what was done to earn the badge. 
+DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:target="_blank"} and have the recipients email address embedded in the signing so that it cannot be used by anyone else. Also embedded in the badge is a [link to the learning objectives for the workshop](index.md){:target="_blank"} so that employers or anyone who sees the badge can determine what was done to earn the badge. 
 
-DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr/Canvas page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
+DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities.
 
 ### Earn an Informal Credential or Badge for Laser Cutting:
 
