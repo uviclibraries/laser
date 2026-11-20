@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Hands-On Self-Directed Introduction
 
 Please review the following links:
 
